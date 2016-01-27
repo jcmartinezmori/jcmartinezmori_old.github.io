@@ -1,27 +1,8 @@
 @font-face {
-	font-family: 'Adobe Caslon';
-	src:url('fonts/Adobe_Caslon_Pro_Regular.ttf');
-}
-
-@font-face {
-
-	font-family: 'Sorts Mill Goudy';
-	src: url('fonts/SortsMillGoudy-Regular.ttf');
-
-}
-
-@font-face {
 
 	font-family: 'Alegreya';
 	src: url('fonts/Alegreya-Regular.ttf');
 
-}
-
-@font-face {
-
-	font-family: 'Minion Pro';
-	src: url('fonts/Minion-Pro-Regular.ttf');
-	
 }
 
 @font-face {
@@ -51,14 +32,5 @@
 	src: url('fonts/PalatinoLinotypei.ttf');
 	
 }
-
-@font-face {
-
-	font-family: 'pala';
-	src: url('fonts/pala.ttf');
-	
-}
-
-
 
 

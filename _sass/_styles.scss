@@ -405,12 +405,14 @@ header.site-header nav {
         list-style-type: none;
         list-style: none;
         @include column(8);
-        @include push(2);
+        @include push(1);
         display: block;
         float: none;
         
         lh h2 {
-            font-family: $sans;
+            font-family: 'AlteHaasGroteskB';
+            text-align: center;
+            color: $black;
             margin-bottom: $lh*1.5;
 
         }
@@ -421,12 +423,14 @@ header.site-header nav {
             font-size: $fs3;
             margin-bottom: $lh*2;
             position: relative;
+            text-align: center;
             
             a {
-                color: $link;
+                text-align: center;
+                color: $black;
                 position: relative;
                 &:hover {
-                    color: $accent;
+                    color: $accent3;
                     @include transit;
                 }
             }
@@ -460,6 +464,14 @@ header.site-header nav {
                 font-size: $fs3;
                 font-style: bold;
                 font-family: $sans;
+            }
+
+            .little-band {
+                border-bottom-style: solid;
+                border-bottom-color: $accent2;
+                border-bottom-width: 1px;
+                margin: 0 auto;
+                width: 35%;
             }
 
         }
@@ -699,16 +711,12 @@ footer {
         top: 109px;
         @include column(2,12);
         right: 5vw;
-        font-family: $sans;
-        a {
-            color: $black;
-            &:hover {
-                color: $grey-medium;
-            }
-        }
+        font-family: $newfont;
+        
         ul {
             li {
                 margin-bottom: $lh/2;
+                line-height: $lh;
                 &:last-child {
                     margin-bottom: 0;
                 }

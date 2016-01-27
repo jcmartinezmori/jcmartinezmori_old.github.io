@@ -12,6 +12,7 @@
                         <p class="date"><time datetime="{{ post.date | date_to_xmlschema }}" itemprop="datePublished">{{ post.date | date: "%B %d, %Y" }}</time></p>
                         <p class="desc-recent">{% if post.description %}{{ post.description  | strip_html | strip_newlines | truncate: 120 }}{% else %}{{ post.content | strip_html | strip_newlines | truncate: 120 }}{% endif %}</p>
                     </div>
+                    <div class = "little-band"></div>
                   </li>
                   {% endfor %}
               </ol>

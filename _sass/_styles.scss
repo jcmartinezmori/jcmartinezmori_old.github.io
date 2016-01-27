@@ -1,7 +1,7 @@
 /************ Basic *************/
 
 body {
-  font-family: $serif;
+  font-family: $newfont;
   color: $black;
   -webkit-font-smoothing: antialiased; /* Fix for webkit rendering */
   -moz-osx-font-smoothing: grayscale; /* Fix for Mozilla */
@@ -11,6 +11,8 @@ body {
   height: 100%;
   overflow-x: hidden;
 }
+
+
 
 h1,h2,h3,h4,h5 {
     font-family: $serif;
@@ -136,13 +138,33 @@ input {
 }
 
 .bb {
-    border-bottom: 2px solid $link;
+    border-bottom: 2px solid $accent2;
 }
 
 .pad-top {
     padding-top: $lh*2;
 }
 
+.initial {
+
+    font-style: bold;
+    font-size: 300%;
+    color: $accent2;
+    font-family: 'Alegreya';
+
+}
+
+.kern {
+
+    letter-spacing: 6px;
+
+}
+
+.indent {
+
+    padding-left: 30px;
+
+}
 /************ Layout *************/
 
 #bump {
@@ -172,7 +194,10 @@ input {
 /* Header */
 
 header.site-header {
-  padding: 20px 0;
+  padding-top: 0;
+  padding-left: 0;
+  padding-right: 0;
+  padding-bottom: 20px;
   position: absolute;
   width: 100%;
   z-index: 5000;
@@ -220,6 +245,7 @@ header.site-header a.menu {
 header.site-header hgroup h1, header.site-header nav ul {
   font-family: $sans;
 }
+
 header.site-header hgroup {
   float: left;
   padding-left: 5vw;
@@ -230,6 +256,16 @@ header.site-header hgroup {
       color: $accent;
       letter-spacing: 2px;
       text-transform: uppercase;
+      padding-top: 20px;
+      padding-right: 5px;
+      padding-left: 5px;
+  }
+  table {
+    th {
+        border-top-style: solid;
+        border-top-color: #C21700;
+        border-width: 3px;
+    }
   }
   a {
       color: #fff;
@@ -246,6 +282,7 @@ header.site-header nav {
   float: right;
   display: block;
   padding-right: 5vw;
+  padding-top: 23px;
   @include clearfix;
   
   ul li {
@@ -356,13 +393,15 @@ header.site-header nav {
     .post-list {
         list-style-type: none;
         list-style: none;
-        @include column(7);
+        @include column(8);
         @include push(2);
         display: block;
         float: none;
         
         lh h2 {
+            font-family: $sans;
             margin-bottom: $lh*1.5;
+
         }
         
         li {
@@ -380,7 +419,6 @@ header.site-header nav {
             }
             
             a:hover:before {
-                content:'...';
                 color: $grey-light;
                 font-family: $sans;
                 position: absolute;
@@ -393,7 +431,6 @@ header.site-header nav {
             }
             
             a:before {
-                content:'\201c';
                 color: $grey-light;
                 position: absolute;
                 margin-left: -70px;
@@ -408,7 +445,8 @@ header.site-header nav {
             
             h1 {
                 font-size: $fs3;
-                font-style: italic;
+                font-style: bold;
+                font-family: $sans;
             }
         }
         

@@ -22,13 +22,15 @@ $hilite: #fffbd7;
 /* Accent Colors */
 $link: #8AB9D1;
 $accent: #24536B;
+$accent2: #C21700;
 
 
 /* Typography
    ========================================================================== */
 
 $sans: "Source Sans Pro", "Open Sans", "Helvetica Neue", "Arial", sans-serif;
-$serif: "Calendas Plus","Crimson Text", "Hoefler Text", "Georgia", serif;
+$serif:  "Calendas Plus","Crimson Text", "Hoefler Text", "Georgia", serif;
+$newfont: "Sorts Mill Goudy", "Adobe Caslon";
 
    
    
@@ -49,7 +51,7 @@ $fs6:12px;
 
 // Line Height
 
-$lh: 33px;
+$lh: 35px;
 $lhsmall: 24px;
 
 // Sizing 
@@ -57,7 +59,9 @@ $footerHeight: 320px;
 
 // Griddit
 
+// Newly added
 
+$logoWidth: 10%;
 
 /* Break Points
    ========================================================================== */

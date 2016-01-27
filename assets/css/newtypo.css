@@ -1,0 +1,52 @@
+@font-face {
+	font-family: 'Adobe Caslon';
+	src:url('fonts/Adobe_Caslon_Pro_Regular.ttf');
+}
+
+@font-face {
+
+	font-family: 'Sorts Mill Goudy';
+	src: url('fonts/SortsMillGoudy-Regular.ttf');
+
+}
+
+@font-face {
+
+	font-family: 'Alegreya';
+	src: url('fonts/Alegreya-Regular.ttf');
+
+}
+
+@font-face {
+
+	font-family: 'Minion Pro';
+	src: url('fonts/Minion-Pro-Regular.ttf');
+	
+}
+
+@font-face {
+
+	font-family: 'Stempel Schneidler';
+	src: url('fonts/Stempel-Schneidler-LT-Medium.ttf');
+	
+}
+
+.initial {
+
+	font-style: bold;
+	font-size: 250%;
+
+}
+
+.kern {
+
+	letter-spacing: -2px;
+
+}
+
+.indent {
+
+	padding-left: 30px;
+
+}
+

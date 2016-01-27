@@ -54,11 +54,14 @@ small {
 }
 
 blockquote, blockquote p {
-    font-style: italic;
+    font-family: 'palai';
+    font-size: 30pt;
+    font-style: bold;
     line-height: 1.3em;
     text-align: center;
     color: lighten($black, .2);
     margin-bottom: $lh;
+    padding: 0 20px;
 }
 
 
@@ -148,15 +151,19 @@ input {
 .initial {
 
     font-style: bold;
-    font-size: 300%;
+    font-size: 500%;
     color: $accent2;
     font-family: 'Alegreya';
 
 }
 
+.question-mark {
+    font-family: 'Alegreya';
+}
+
 .kern {
 
-    letter-spacing: 6px;
+    letter-spacing: -2px;
 
 }
 
@@ -164,6 +171,10 @@ input {
 
     padding-left: 30px;
 
+}
+
+.nice-italic {
+    font-family: palai;
 }
 /************ Layout *************/
 
@@ -183,6 +194,7 @@ input {
 }
 
 .post {
+    text-align: hypenate;
     @include column(8);
     max-width: 680px;
     display: block;
@@ -252,6 +264,7 @@ header.site-header hgroup {
   h1 {
       font-weight: 700;
       font-size: 18px;
+      font-family: "Source Sans Pro", "Open Sans", "Helvetica Neue", "Arial", sans-serif;
       line-height: 100%;
       color: $accent;
       letter-spacing: 2px;
@@ -483,6 +496,7 @@ header.site-header nav {
         position: relative;
         top: 45px;
         z-index: 5;
+
         .date {
             font-size: $fs5;
             position: relative;
@@ -494,13 +508,26 @@ header.site-header nav {
     }
     
     h1 {
-        font-style: italic;
+        font-family: 'AlteHaasGroteskB';
+        font-style: none;
+        font-size: 100pt;
+
+    }
+
+    .tiny-bar {
+        margin: 30px auto;
+        border-top-style: solid;
+        border-top-color: $accent2;
+        border-top-width: 1px;
+        width: 25%;
+
     }
     
-    h1, h2, h3, h4, h5 {
+    h2, h3, h4, h5 {
         padding-top: ($lh * 1/2);
         margin-bottom: ($lh * 1/2);
-        line-height: 1.25em
+        line-height: 1.25em;
+        font-family: $sans;
 
     }
     
@@ -595,10 +622,10 @@ header.site-header nav {
 
 footer {
     width: 100%;
-    background: $black;
+    background: $white;
     height: $footerHeight;
     font-size: $fsp;
-    color: $white;
+    color: $black;
     position: relative;
         
     // Contain that ish
@@ -618,16 +645,17 @@ footer {
         bottom: 8px;
         font-family: $sans;
         text-transform: uppercase;
-        color: transparentize($white, .9);
+        color: $black;
         a {
-            color: transparentize($white, .7);
+            color: $accent2;
         }
     }
     
     .list-title {
         margin-bottom: $lh/2;
-        border-bottom: 2px solid $link;
-        font-style: italic;
+        border-bottom: 1px solid $accent2;
+        font-family: $sans;
+        font-style: bold;
         font-size: $fs4;
     }
     .prev-posts {
@@ -641,18 +669,20 @@ footer {
         li {
             @include row(12);
             margin-top: $lh/2;
+            font-family: $sans;
+            font-size: 90%;
             .recent-title {
                 @include column(8,12);
-                font-style: italic;
                 a {
+                    color: $black;
                     &:hover {
-                        color: $white;
+                        color: $grey-light;
                     }
                 }
             }
             span.date {
                 float: none;
-                color: transparentize($grey-light, .4);
+                color: transparentize($grey-medium, .4);
                 @include column(4,12);
                 position: relative;
                 font-size: $fs5;
@@ -668,10 +698,11 @@ footer {
         top: 109px;
         @include column(2,12);
         right: 5vw;
-        font-style: italic;
+        font-family: $sans;
         a {
+            color: $black;
             &:hover {
-                color: $white;
+                color: $grey-medium;
             }
         }
         ul {

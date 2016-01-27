@@ -1,5 +1,5 @@
 ---
-layout: post-no-feature
+layout: post-light-feature
 title: "A Longform Post to Cogitate"
 description: "Portland in shoreditch Vice, labore typewriter pariatur hoodie fap sartorial Austin. Pinterest literally occupy Schlitz forage."
 category: articles

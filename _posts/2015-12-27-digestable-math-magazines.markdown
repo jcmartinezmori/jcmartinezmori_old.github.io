@@ -1,5 +1,5 @@
 ---
-layout: post
+layout: post-no-feature
 title:  "Easily Digestible Mathematical Magazines"
 subtitle: "A List"
 date:   2015-12-27 10:46:47 +0530

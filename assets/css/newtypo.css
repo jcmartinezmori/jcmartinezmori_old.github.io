@@ -31,22 +31,27 @@
 	
 }
 
-.initial {
+@font-face {
 
-	font-style: bold;
-	font-size: 250%;
-
+	font-family: 'AlteHaasGroteskB';
+	src: url('fonts/AlteHaasGroteskBold.ttf');
+	
 }
 
-.kern {
+@font-face {
 
-	letter-spacing: -2px;
-
+	font-family: 'AlteHaasGrotesk';
+	src: url('fonts/AlteHaasGroteskRegular.ttf');
+	
 }
 
-.indent {
+@font-face {
 
-	padding-left: 30px;
-
+	font-family: 'palai';
+	src: url('fonts/PalatinoLinotypei.ttf');
+	
 }
+
+
+
 

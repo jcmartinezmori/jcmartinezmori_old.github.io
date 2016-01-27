@@ -26,6 +26,6 @@ One day perhaps all the webpages on the internet might be indexed by a search en
 
 Another important objective of Project Sparta would be to teach me to effectively hunt for information in the deep web.
 
-#Project Log
+##Project Log
 
 `this section is being written`

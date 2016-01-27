@@ -21,3 +21,43 @@ This is a post that uses a `figure`. It stacks these images and places a nice li
 	<figcaption>Caption describing these two images.</figcaption>
 </figure>
 {% endhighlight %}
+
+{% highlight scss linenos %}
+
+  li {
+            display: block;
+            float: none;
+            font-size: $fs3;
+            margin-bottom: $lh*2;
+            position: relative;
+            
+            a {
+                color: $link;
+                position: relative;
+                &:hover {
+                    color: $accent;
+                    @include transit;
+                }
+            }
+    
+            a:hover:before {
+                color: $grey-light;
+                font-family: $sans;
+                position: absolute;
+                margin-left: -70px;
+                font-size: 40px;
+                left: 0;
+                top: -20px;
+                text-align: center;
+                @include transit;
+            }
+            
+            a:before {
+                color: $grey-light;
+                position: absolute;
+                margin-left: -70px;
+                font-size: 60px;
+                z-index: 10;
+                top: -6px;
+
+{% endhighlight %}

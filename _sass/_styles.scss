@@ -140,10 +140,6 @@ input {
   line-height: 20px; 
 }
 
-.bb {
-    border-bottom: 2px solid $accent2;
-}
-
 .pad-top {
     padding-top: $lh*2;
 }
@@ -379,7 +375,9 @@ header.site-header nav {
         }
         
         .intro {
-            text-align: left;
+            text-align: center;
+            font-family: palai;
+            padding: 0 20px;
         }
     }
 }
@@ -425,12 +423,14 @@ header.site-header nav {
             position: relative;
             
             a {
+                color: $link;
                 position: relative;
                 &:hover {
+                    color: $accent;
                     @include transit;
                 }
             }
-            
+    
             a:hover:before {
                 color: $grey-light;
                 font-family: $sans;
@@ -454,13 +454,14 @@ header.site-header nav {
                 text-align: center;
                 @include transit;
 
-            }
+            } 
             
             h1 {
                 font-size: $fs3;
                 font-style: bold;
                 font-family: $sans;
             }
+
         }
         
         .summary {
@@ -604,12 +605,12 @@ header.site-header nav {
         font-weight: bold;
         letter-spacing: 1px;
         padding: 4px 6px 4px 6px;
-        color: $grey-light;
-        border: 2px solid transparentize($grey-light,.3);
-        @include br(4px);
+        color: $black;
+        border: 2px solid $black;
+       /* @include br(4px); */
         &:hover {
-            color: $link;
-            border-color: transparentize($link,.3);
+            color: $accent2;
+            border-color: $accent2;
             @include transit(all,.2s,ease)
         }
     }

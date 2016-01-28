@@ -2,6 +2,7 @@
 layout: post-no-feature
 title: The Einstein Theory of Relativity
 description: A Con­cise State­ment by Prof. H. A. Lorentz, of the Uni­ver­sity of Ley­den
+quote: To inspire ambition, to stimulate the imagination.
 date: 2016-01-27T04:50:35-05:00
 ---
 

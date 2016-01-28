@@ -223,7 +223,7 @@ header.site-header {
       @include transit(all, .2s, ease-in-out);
 
       &:hover {
-        color: $link;
+        color: $accent2;
         @include transit(all, .2s, ease-in-out);
         }
       }
@@ -239,7 +239,7 @@ header.site-header {
             }
             &:hover {
                 text-shadow: none;
-                color: $link;
+                color: $accent2;
             }
         }
 
@@ -595,7 +595,7 @@ header.site-header nav {
         li {
             margin-left: $lh*2;
             padding-left: $lh/3;
-            margin-bottom: $lh/3;
+            margin-bottom: $lh/4;
             line-height: $lh;
             font-size: $fsp;
         &:last-child {
@@ -654,7 +654,7 @@ footer {
         width: 100%;
         position: absolute;
         bottom: 8px;
-        font-family: $sans;
+        font-family: 'AlteHaasGrotesk';
         text-transform: uppercase;
         color: $black;
         a {
@@ -707,7 +707,7 @@ footer {
     .social {
         position: absolute;
         top: 109px;
-        @include column(2,12);
+        @include column(3,12);
         right: 5vw;
         font-family: 'palai';
         

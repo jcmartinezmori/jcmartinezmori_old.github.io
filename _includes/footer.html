@@ -13,16 +13,11 @@
 
       <div class="social">
         <ul>
+          {% if page.quote %}
             <li><span class="foot-link">"{{ page.quote }}"</span></li>
-
-            {% if site.owner.twitter %}
-            <li><a id="twit" href="http://twitter.com/{{ site.owner.twitter }}" target="_blank"><span class="foot-link">@{{ site.owner.twitter }}</span></a></li>
-            {% endif %}
-
-
-            {% if site.owner.dribbble %}
-            <li><a id="drib" href="http://dribbble.com/{{ site.owner.dribbble }}" target="_blank"><span class="foot-link">Dribbble</span></a></li>
-            {% endif %}
+          {% else %}
+            <li><span class = "foot-link">"The twins of Mammon quarrelled. Their warring plunged the world into a new darkness, and the beast abhorred the darkness. So it began to move swiftly, and grew more powerful, and went forth and multiplied."</span></li>
+          {% endif %}
         </ul>
     </div>
     </aside>

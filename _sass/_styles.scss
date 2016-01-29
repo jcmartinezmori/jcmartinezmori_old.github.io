@@ -541,6 +541,16 @@ header.site-header nav {
         font-family: $sans;
 
     }
+
+    a, a:visited, a:active {
+    color: $accent3;
+    @include transit(all,0.25s,ease-in-out);
+    }
+
+    a:hover {
+        color: $accent2;
+        @include transit(all,.25s, ease-in-out)
+    }
     
     figure {
         margin: $lh 0;

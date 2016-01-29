@@ -1,6 +1,7 @@
 ---
 layout: post-light-feature
-title: The Water-Babies
+title: Charles Kingsley's The Water-Babies
+display_title: The Water Babies
 description: "But they had not got half the spikes away when they saw a great dark cloud over them ; and lo, and behold, it was the otter. How she did grin and grin."
 quote: Charles Kingsley; The Water-Babies.
 date: 2016-01-28T05:58:32-05:00

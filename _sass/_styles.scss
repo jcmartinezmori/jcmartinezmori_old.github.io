@@ -70,7 +70,7 @@ blockquote, blockquote p {
 code {
     color: $accent;
     font-family: "Monaco", "Courier New", "Courier";
-    font-size: .75em;
+    font-size: 90%;
     font-weight: bold;
 }
 
@@ -151,7 +151,6 @@ input {
     color: $accent2;
     font-family: 'Alegreya';
     line-height: $lh*2;
-
 }
 
 .initial-dark {

@@ -1,12 +1,14 @@
 ---
 layout: post-no-feature
 title: Read Me Now
+quote: I think, therefore I am.
 display_title: The Fairytale Theme
+description: The Fairytale theme reflects Balzac in basic functionality
 date: 2016-01-31T05:53:04-05:00
 ---
 
 
-<span class = "initial">I</span> thought Balzac was a wizard's name. So when I forked and tweaked [Cole Townsend's](@twnsndco) Balzac for Jekyll theme I named it Fairytale. It's a theme which is a bit heavy on typography. I did little modification to the home page. But I took my liberty with the rest. Fairytale is my first theme for jekyll. I didn't change the layout more than was necessary since I intended the theme to reflect Balzac in basic functionaliy. 
+<span class = "initial">I</span> thought Balzac was a wizard's name. So when I forked and tweaked [Cole Townsend's](@twnsndco) Balzac for Jekyll theme I named it Fairytale. It's a theme which is a bit heavy on typography. I did little modification to the home page. But I took my liberty with the rest. Fairytale is my first theme for jekyll. I didn't change the layout more than was necessary since I intended the theme to reflect Balzac in functionaliy. 
 
 ## Features
 - A few typographical eye candy
@@ -115,9 +117,9 @@ Then indent the first line of a paragraph like this,
 
 ###Note on Typography
 
-The body text is in `Stempel Schneidler Light Medium`. It a German font really so the question mark `?` is upside down. Just fix this by replacing each `?` with `<span class = "question-mark">?</span>`. I won't apologize for this It's my favorite font.
+The body text is in `Stempel Schneidler Light Medium`. It a German font really so the question mark `?` is upside down. Just fix this by replacing each ? with `<span class = "question-mark">?</span>`. I won't apologize for this since it's my favorite font.
 
-Most people don't realize this but <span style = "font-style:italic;">this text</span> is not in italic but in oblique type. There's a big difference. Oblique text is rendered by the browser by slanting the original font. But italic is an entirely different typeface with individually crafted characters. If you want <span class = "nice-italic">italic</span> instead of oblique use `<span class = "nice-italic"></span>`. I use `Palatino Linotype` for italic.
+Most people don't realize this, but <span style = "font-style:italic;">this text</span> is not in italic but in oblique type. There's a big difference. Oblique text is rendered by the browser by slanting the original font. But italic is an entirely different typeface with individually crafted characters. If you want <span class = "nice-italic">italic</span> instead of oblique use `<span class = "nice-italic"></span>`. Fairytale use `Palatino Linotype` for italic.
 
 The post heading and other sans text is in `Alte Haas Grotesk` ( separate typeface for normal and bold ). On smaller screens the enormous post heading in `100pt` text might be too large and partly hidden. Although on smaller screens the fontsize automatically reduces to `50pt` you might want set `display_title` in you `post.md` file to a smaller, more readable title.
 {% highlight yaml %}
@@ -136,8 +138,17 @@ title: A really simple title
 quote: You must jump of a cliff before you can start living.
 ---
 {% endhighlight %}
-Don't bother with quotation marks. You can change the default quotation in the `footer.html` file in the `_include` folder. 
+Don't bother adding quotation marks. You can change the default quotation in the `footer.html` file in the `_include` folder. 
 
+##Mathjax
+
+Fairytale comes with support for mathjax, but only if you want it to. Add `math: yes` like this,
+{% highlight yaml %}
+---
+layout: post
+math: yes
+---
+{% endhighlight %}
 
 ## Other Stuff
 

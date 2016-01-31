@@ -145,12 +145,12 @@ input {
 }
 
 .initial {
-    vertical-align: text-bottom;
     font-style: bold;
     font-size: 500%;
     color: $accent2;
     font-family: 'Alegreya';
     line-height: $lh*2;
+    vertical-align: text-bottom;
 }
 
 .initial-dark {

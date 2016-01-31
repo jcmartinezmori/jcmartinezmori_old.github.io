@@ -1,13 +1,14 @@
-# Gandalf
+# The Fairytale Theme
 
-I thought Balzac was a wizard's name. So when I forked and tweaked [Cole Townsend's](@twnsndco) Balzac for Jekyll theme I named it Gandalf. Gandalf is a theme which is a bit heavy on typography. I did little modification to the home page. But I took my liberty with the rest. Gandalf is my first theme for jekyll. I didn't change the layout more than was necessary since I intended the theme to reflect Balzac in functionaliy. 
+I thought Balzac was a wizard's name. So when I forked and tweaked [Cole Townsend's](@twnsndco) Balzac for Jekyll theme I named it Fairytale. It's a theme which is a bit heavy on typography. I did little modification to the home page. But I took my liberty with the rest. Fairytale is my first theme for jekyll. I didn't change the layout more than was necessary since I intended the theme to reflect Balzac in basic functionaliy. 
 
 ## Features
-- font kerning, hypenation, mathjax
+- A few typographical eye candy
+- mathjax
 - plus all inherited features from Balzac
 
 
-### Features:
+### Features: derived
 - flexible, uses max-width for responsive goodness
 - responsive drop down menu
 - retina images using @2x
@@ -18,37 +19,51 @@ I thought Balzac was a wizard's name. So when I forked and tweaked [Cole Townsen
 
 1. [Install Jekyll](http://jekyllrb.com) if you haven't already.
 2. Download this bad boy.
-3.  Fork the [Gandalf repo](http://github.com/username/balzac-for-jekyll/)
+3.  Fork the [Fairytale repo](http://github.com/username/fairytale-theme)
 4. Twerk it out so it's just for you.
 5.  ???
 6.  Profit
 
-## [Preview the Theme](http://espresso-math.github.io)
+## [Preview this Theme](http://espresso-math.github.io)
  
 ``` bash
-balzac-for-jekyll/
+Fairytale-Theme/
 ├── _includes
 |    ├── footer.html  //site footer
 |    ├── head.html  //site head
 |    ├── head-dark.html  //dark site head for light pages
+|	 ├── mathjax.html //mathjax configuration
 ├── _layouts
+|    ├── 404.html   //Edit the 404 file
 |    ├── home.html  //homepage layout
 |    ├── page.html  //page layout
 |    ├── post-index.html  //post listing layout
 |    └── post.html  //post layout
 |    ├── post-no-feature.html  //feature image-less post layout
 ├── _posts
+├── _sass
+|    ├── _grid.scss 
+|    ├── _mixins.scss
+|    ├── _normalize.scss
+|    ├── _styles.scss //This make the looks
+|    ├── _type.scss
+|    ├── _variables.scss //Fonts, Colors etc...
+├── _site
+|    ├── //Leave well enough alone
 ├── assets
 |    ├── css  //preprocessed less styles. good idea to minify
 |    ├── img  //images and graphics used in css and js
 |    ├── js
-|    |   ├── main.js  //jQuery plugins and settings
-|    |   └── vendor  //all 3rd party scripts
+|    ├── ├── main.js  //jQuery plugins and settings
+|    ├   └── vendor  //all 3rd party scripts
 |    └── sass 
+|    └── mathjax //the mathjax files. Keep this updated
 ├── images  //images for posts and pages
+└── 404.md //File not found page.
 ├── about.md  //about page
 ├── articles.md  //lists all posts from latest to oldest
 └── index.md  //homepage. lists 5 most recent posts
+
 ```
 
 # Customization
@@ -77,11 +92,44 @@ links:
     url: http://example.org
     external: true
 ```
-##Typography
+##The **New** in Fairyland
 
--Use `<span class = "initial">W</span>` any character 400% larger and colorful.
--Use `<span class = "indent"></span>` at the start of each paragraph to indent that paragraph.
--Use `<span class = "kern"></span>` to bring two characters closer together.
+### Post
+
+You can enlarge the initial letter like so,
+``` html
+<span class = "initial">"W</span>hen, where, wtf?"
+```
+
+Then indent the first line of a paragraph like this,
+``` html
+<span class = "indent"></span>Start of paragraph...
+```
+####Note on Typography
+
+The body text is in `Stempel Schneidler Light Medium`. It a German font really so the question mark `?` is upside down. Just fix this by replacing each `?` with `<span class = "question-mark">?</span>`. I won't apologize for this It's my favorite font.
+
+Most people don't realize this but **this text** is not in italic but in oblique type. There's a big difference. Oblique text is rendered by the browser by slanting the original font. But italic is an entirely different typeface with individually crafted characters. If you want italic instead of oblique use `<span class = "nice-italic"></span>`. I use `Palatino Linotype` for italic.
+
+The post heading and other sans text is in `Alte Haas Grotesk` ( separate typeface for normal and bold ). On smaller screens the enormous post heading in `100pt` text might be too large and partly hidden. Although on smaller screens the fontsize automatically reduces to `50pt` you might want set `display-title` in you `post.md` file to a smaller, more readable title.
+```yaml
+---
+layout: post
+title: Really long title
+display-title: Bite Me
+---
+```
+
+If you look at the lower right corner of the webpage you'll find a standalone quote there. You can set this in a post or page using 'quote',
+```yaml
+---
+layout: post
+title: A really simple title
+quote: You must jump of a cliff before you can start living.
+---
+```
+Don't bother with quotation marks. You can change the default quotation in the `footer.html` file in the `_include` folder. 
+
 
 ## Other Stuff
 

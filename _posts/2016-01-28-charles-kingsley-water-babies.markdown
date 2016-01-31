@@ -34,6 +34,8 @@ catch prawns, and the wrasses nibble barnacles off the rocks, shells and all, wh
 
 <span class = "indent"></span>Tom reached and crawled down the hole after him, till he caught hold of him; and then, as was to be expected, the clumsy lobster pulled him in head foremost.
 
+><span class = "initial-dark">B</span>ut they had not got half the spikes away when they saw a great dark cloud over them ; and lo, and behold, it was the otter. How she did grin and grin.
+
 <span class = "indent"></span>" Hullo ! here is a pretty business," said Tom. " Now take you great claws, and break the points off those spikes, and then we shall both get out easily."
 
 <span class = "indent"></span>" Dear me, I never thought of that," said the lobster; " and after all the experience of life that I have had !"

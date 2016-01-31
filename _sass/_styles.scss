@@ -55,13 +55,13 @@ small {
 
 blockquote, blockquote p {
     font-family: 'palai';
-    font-size: 30pt;
+    font-size: 20pt;
     font-style: bold;
-    line-height: 1.3em;
-    text-align: center;
+    line-height: 1.5em;
+    text-align: left;
     color: lighten($black, .2);
     margin-bottom: $lh;
-    padding: 0 20px;
+    padding: 0 30px;
 }
 
 
@@ -145,12 +145,18 @@ input {
 }
 
 .initial {
-
+    vertical-align: text-bottom;
     font-style: bold;
     font-size: 500%;
     color: $accent2;
     font-family: 'Alegreya';
+    line-height: $lh*2;
 
+}
+
+.initial-dark {
+    font-weight: bold;
+    font-size: 103%;
 }
 
 .question-mark {
@@ -809,6 +815,12 @@ footer {
 @media only screen and (max-width : 680px) {
  
  /* All Posts */
+
+  .post {
+    h1 {
+        font-size: 50pt;
+    }
+  }
       
   section.article img.loading {
     top: 10px !important;
@@ -925,6 +937,9 @@ footer {
     display: block;
     margin: 0 auto;
     float: none;
+    h1 {
+        font-size: 50pt;
+    }
 }
 
 footer {

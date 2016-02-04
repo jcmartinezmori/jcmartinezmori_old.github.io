@@ -2,7 +2,7 @@
 layout: page
 title: About Me
 description: The story of a Bucket
-quote: Although I am an old man, night is generally my time for walking.
+quote: "Stand aside. Giggle."
 permalink: /about/
 ---
 

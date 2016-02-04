@@ -6,6 +6,7 @@ body {
   -webkit-font-smoothing: antialiased; /* Fix for webkit rendering */
   -moz-osx-font-smoothing: grayscale; /* Fix for Mozilla */
   text-size-adjust: 100%;
+  text-rendering: geometricPrecision;
   background: $white;
   min-height: 100%;
   height: 100%;
@@ -60,8 +61,10 @@ blockquote, blockquote p {
     line-height: 1.5em;
     text-align: left;
     color: lighten($black, .2);
-    margin-bottom: $lh;
-    padding: 0 30px;
+    margin: $lh*1.5 0;
+    padding-left: 20px;
+    padding-right: 10px;
+    
 }
 
 
@@ -69,7 +72,7 @@ blockquote, blockquote p {
 
 code {
     color: $accent;
-    font-family: "Monaco", "Courier New", "Courier";
+    font-family: "Courier New", "Courier";
     font-size: 90%;
     font-weight: bold;
 }
@@ -150,7 +153,8 @@ input {
     color: $accent2;
     font-family: 'Alegreya';
     line-height: $lh*2;
-    vertical-align: text-bottom;
+    vertical-align: sub;
+    letter-spacing: 4px;
 }
 
 .initial-dark {
@@ -165,12 +169,6 @@ input {
 .kern {
 
     letter-spacing: -2px;
-
-}
-
-.indent {
-
-    padding-left: 30px;
 
 }
 
@@ -629,7 +627,7 @@ header.site-header nav {
         text-transform: uppercase;
         font-weight: bold;
         letter-spacing: 1px;
-        padding: 4px 6px 4px 6px;
+        padding: 4px 8px 4px 8px;
         color: $black;
         border: 2px solid $black;
        /* @include br(4px); */
@@ -725,7 +723,7 @@ footer {
         @include column(3,12);
         right: 5vw;
         font-family: 'palai';
-        
+        text-align: center;
         ul {
             li {
                 margin-bottom: $lh/2;

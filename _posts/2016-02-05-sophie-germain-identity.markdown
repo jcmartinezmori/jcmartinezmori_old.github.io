@@ -39,10 +39,11 @@ But what if $n$ is odd? Let $n = 2k+1$. Let's apply the Sohpie Germain Identity 
 \end{align}
 Which means that we can factorize the expression into,
 
-<center>
-$$(2k+1)^2 + 2(2^k)^2 - 2(2k+1)(2^k) \times$$ <br>
-$$(2k+1)^2 + 2(2^k)^2 + 2(2k+1)(2^k)$$
-</center>
+
+\begin{equation}
+(2k+1)^2 + 2(2^k)^2 - 2(2k+1)(2^k) \times \\\
+(2k+1)^2 + 2(2^k)^2 + 2(2k+1)(2^k)
+\end{equation}
 
 So we realize that the expression can indeed be factorized.
 

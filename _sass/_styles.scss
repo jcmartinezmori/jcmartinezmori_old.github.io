@@ -33,6 +33,22 @@ a:hover {
     @include transit(all,.25s, ease-in-out)
 }
 
+//indent
+
+p:first-of-type > em:first-of-type {
+    font-weight: normal;
+    font-size: 500%;
+    color: $accent2;
+    font-family: 'Alegreya';
+    line-height: $lh*2;
+    vertical-align: sub;
+    letter-spacing: 4px;
+    padding:0;
+    font-style: none;
+    border-radius:0;
+    background: $white;
+}
+
 em {
     padding: 1px 2px;
     border-radius: 2px;
@@ -525,7 +541,6 @@ header.site-header nav {
         font-family: 'AlteHaasGroteskB';
         font-style: none;
         font-size: 8.35em;
-
     }
 
     .tiny-bar {

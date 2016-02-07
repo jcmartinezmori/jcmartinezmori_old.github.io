@@ -4,6 +4,11 @@ description:
 # An awesome quote for your website
 quote:  "Cringe. Now bad poetry."
 canonical: espresso-math.github.io
+#Comment out the below line when pushing to gh-pages
+#url: file:///media/inversesquare/20A6-DA062/Creative%20Works%20Finished/The_Fairytale_Theme/_site
+url: http://10.42.0.1/_site 
+#For local development only. Comment it out.
+file_end: .html
 
 # Owner/author information
 owner:

@@ -188,6 +188,7 @@ input {
 
 }
 
+
 .nice-italic {
     font-family: palai;
 }
@@ -833,7 +834,13 @@ footer {
         font-size: 50pt;
     }
   }
-      
+  
+  //Mathjax scroll
+
+  .MathJax_Display, .MathJax_SVG_Display, .MathJax_MathML {
+    overflow-x: scroll !important;
+  }
+
   section.article img.loading {
     top: 10px !important;
     right: 6%;
@@ -843,7 +850,7 @@ footer {
   
   header.site-header {
     min-height: 59px;
-    margin-top: 20px;
+    margin-top: 0;
     padding-top: 0;
   }
   
@@ -867,6 +874,7 @@ footer {
     width: 16px;
     height: 16px;
     color: white;
+    margin-top: 20px;
     .icons {
         font-size: 32px;
     }

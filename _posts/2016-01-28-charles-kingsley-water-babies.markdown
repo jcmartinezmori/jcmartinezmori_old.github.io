@@ -8,7 +8,7 @@ typefix:
 date: 2016-01-28T05:58:32-05:00
 ---
 
-<span class = "initial">O</span>ne day Tom was going along the rocks in three-fanthom water, watching the pollock
+*O*ne day Tom was going along the rocks in three-fanthom water, watching the pollock
 catch prawns, and the wrasses nibble barnacles off the rocks, shells and all, when he saw a round cage of green withes;  and inside it, looking very much ashamed of himself, sat his friend the lobster, twiddling his horns, instead of his thumbs.
 
 "What, have you been naughty, and have they put you in the lock-up <span class = "question-mark">?</span>"asked Tom.

@@ -6,7 +6,7 @@ date:   2015-12-27 10:46:47 +0530
 categories: [mathematics]
 ---
 
-<span class = "initial">L</span>ets get things straight. I hate lists. There's so many lists on the Internet that I when I see another one, I blow my top. Don't get me wrong. Lists are really good at organizing information. But it's in bad taste. That's why I promised myself I won't write another list until their was a good reason for it. This qualifies.
+*L*ets get things straight. I hate lists. There's so many lists on the Internet that I when I see another one, I blow my top. Don't get me wrong. Lists are really good at organizing information. But it's in bad taste. That's why I promised myself I won't write another list until their was a good reason for it. This qualifies.
 
 Mathematical magazines are really hard to find. I could find precious few online. In a way that's understandable. Mathematics sure is not popular. And it sure won't sell half as fast as say a list titled 'Lady Gaga's Top 10 Tattoos'. But I don't intend to write click baits that seem to be the dominant lifeforms on the Internet. It's a matter of principle. 
 

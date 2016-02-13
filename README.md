@@ -2,6 +2,7 @@
 
 I thought Balzac was a wizard's name. So when I forked and tweaked [Cole Townsend's](@twnsndco) Balzac for Jekyll theme I named it Fairytale. It's a theme which is heavy on typography. I did little modification to the home page. But I took my liberty with the rest. Fairytale is my first theme for jekyll. I didn't change the layout more than was necessary since I intend the theme to reflect Balzac in functionaliy. 
 
+
 ## Features
 - A few typographical eye candy
 - MathJax
@@ -26,13 +27,13 @@ I thought Balzac was a wizard's name. So when I forked and tweaked [Cole Townsen
 
 ## [Preview this Theme](http://espresso-math.github.io)
  
-``` bash
+``` bash 
 Fairytale-Theme/
 ├── _includes
 |    ├── footer.html  //site footer
 |    ├── head.html  //site head
 |    ├── head-dark.html  //dark site head for light pages
-|	 ├── mathjax.html //mathjax configuration
+|  ├── mathjax.html //mathjax configuration
 |    └── typefix.html //a few typographical tricks
 ├── _layouts
 |    ├── 404.html   //Edit the 404 file
@@ -98,14 +99,14 @@ links:
 
 ### Post
 
-You can enlarge the initial letter like so,
+You can enlarge the initial letter by emphasizing it like this,
 ``` html
-<span class = "initial">"W</span>hen, where, wtf?"
+*"W*hen, where, wtf?"
 ```
 
 ###Note on Typography
 
-The body text is in `Stempel Schneidler Light Medium`. It a German font really so the question mark `?` is upside down. Just fix this by replacing each ? with `<span class = "question-mark">?</span>`. I won't apologize since it's my favorite font.
+The body text is in `Stempel Schneidler Light Medium`. It a German font really so the question mark `?` is upside down. Just fix this by replacing each ? with `<span class = "question-mark">?</span>`. I won't apologize for this since it's my favorite font.
 
 Most people don't realize this, but <span style = "font-style:italic;">this text</span> is not in italic but in oblique type. There's a big difference. Oblique text is rendered by the browser by slanting the original font. But italic is an entirely different typeface. If you want <span class = "nice-italic">italic</span> instead of oblique use `<span class = "nice-italic"></span>`. Fairytale use `Palatino Linotype` for italic.
 

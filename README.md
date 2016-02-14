@@ -106,7 +106,7 @@ You can enlarge the initial letter by emphasizing it like this,
 
 ###Note on Typography
 
-The body text is in `Stempel Schneidler Light Medium`. It a German font really so the question mark `?` is upside down. Just fix this by replacing each ? with `<span class = "question-mark">?</span>`. I won't apologize for this since it's my favorite font.
+The body text is in `Stempel Schneidler Light Medium`. The question mark `?` is upside down. Just fix this by replacing each ? with `<span class = "question-mark">?</span>`.
 
 Most people don't realize this, but <span style = "font-style:italic;">this text</span> is not in italic but in oblique type. There's a big difference. Oblique text is rendered by the browser by slanting the original font. But italic is an entirely different typeface. If you want <span class = "nice-italic">italic</span> instead of oblique use `<span class = "nice-italic"></span>`. Fairytale use `Palatino Linotype` for italic.
 

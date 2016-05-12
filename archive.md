@@ -28,7 +28,7 @@ scripts: [search.js]
         <h3>{{ post.date | date: '%Y' }}</h3>
       {% endif %}
     {% endunless %}
-    <li><span class="date">{{ post.date | date:"%b" }}</span> <a href="{{ post.url }}">{{ post.title }}</a></li>
+    <li><span class="date">{{ post.date | date:"%b" }}</span> <a href="{{ post.url | prepend: site.baseurl }}">{{ post.title }}</a></li>
   {% endfor %}
 </div></ul>
 <span class="last-update">{% if page.last_updated %}Page last updated: {{page.last_updated}}{% endif %} Site last generated: {{ site.time | date: "%b %-d, %Y"  }}</span>

@@ -10,7 +10,7 @@ title: Nangka
 email: your@mail.com
 description: > # this means to ignore newlines until "baseurl:"
   Welcome to my awesome blog.
-baseurl: "" # the subpath of your site, e.g. /blog
+baseurl: "/nangka/" # the subpath of your site, e.g. /blog
 permalink : '/:year/:title'
 url: "" # the base hostname & protocol for your site
 twitter:

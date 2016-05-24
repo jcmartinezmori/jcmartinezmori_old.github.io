@@ -1,27 +1,27 @@
-title:            Espresso Math
-tagline:          A Cup of Figures
-description: "Reader, you have been warned! This definitly is not a blog. This is where I keep an extended version of my notes and writing. Do not attempt to find any meaning or purpose in my writing. You will fail miserably."
+title:            It's Algorithmic: Blog Edition 
+tagline:          
+description: "This is my personal blog where I post random thoughts and ideas on various topics. Think of it as an extension of my research notebook. Enjoy"
 # An awesome quote for your website
-quote:  "Cringe. Now bad poetry."
+quote:  "It is one of life's bitterest truths that bedtime so often arrives just when things are really getting interesting. -- Lemony Snicket"
 canonical: espresso-math.github.io
 #Comment out the below line when pushing to gh-pages
-#url: http://10.42.0.1/_site 
+url: http://mrlucasch.github.io 
 #For local development only. Comment it out.
 #file_end: .html
 #url: http://localhost:4000
 
 # Owner/author information
 owner:
-  name:           Adrian Glitch
+  name:           Lucas Chaufournier
   avatar:         avatar.jpg
   bio:            
-  email:          adrianglitch.auth@gmail.com
-  twitter:        
-  github:         espresso-math
+  email:          lucasch@cs.umass.edu
+  twitter:        lucasch
+  github:         mrlucasch
   instagram:      
   dribbble:
-  googleplus:     https://plus.google.com/u/3/105796012708469039091       
-  disqus:         espresso-math
+  googleplus:            
+  disqus:         
   location:       
   # Plug in your disqus shortname!
 
@@ -42,7 +42,7 @@ links:
 # http://en.wikipedia.org/wiki/List_of_tz_database_time_zones
 timezone:    America/New_York
 future:      true
-highlighter: pygments
+highlighter: rouge #pygments
 markdown:    kramdown
 
 kramdown:

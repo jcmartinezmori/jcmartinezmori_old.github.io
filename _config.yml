@@ -14,10 +14,10 @@ baseurl: "/" # the subpath of your site, e.g. /blog
 #permalink : '/:year/:title'
 url: "mrlucasch.github.io" # the base hostname & protocol for your site
 twitter:
-  username: lucasch #twitter username here
+  username: "lucasch" #twitter username here
 # Optional settings
-github: mrlucasch #your github username
-linkedin: lucaschaufournier #linkedin username
+github: "mrlucasch" #your github username
+linkedin: "lucaschaufournier" #linkedin username
 
 # Build settings
 markdown: kramdown

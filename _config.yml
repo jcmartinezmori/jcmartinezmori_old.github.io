@@ -11,10 +11,15 @@ email: lucasch@cs.umass.edu
 description: > # this means to ignore newlines until "baseurl:"
   This is the blog for my site itsalgorithmic.com. I post random thoughts and ideas here. Stay Tuned!
 baseurl: "/" # the subpath of your site, e.g. /blog
-#permalink : '/:year/:title'
+permalink : '/:year/:title'
 url: "mrlucasch.github.io" # the base hostname & protocol for your site
 twitter:
   username: "lucasch" #twitter username here
+facebook:
+    app_id: 1234
+    publisher: 1234
+google_plus: 
+
 # Optional settings
 github: "mrlucasch" #your github username
 linkedin: "lucaschaufournier" #linkedin username

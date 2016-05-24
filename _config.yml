@@ -10,12 +10,11 @@ title: It's Algorithmic The Blog
 email: lucasch@cs.umass.edu
 description: > # this means to ignore newlines until "baseurl:"
   This is the blog for my site itsalgorithmic.com. I post random thoughts and ideas here. Stay Tuned!
-baseurl: "/a" # the subpath of your site, e.g. /blog
+baseurl: "/" # the subpath of your site, e.g. /blog
 permalink : '/:year/:title'
 url: "itsalgorithmic.com" # the base hostname & protocol for your site
 twitter:
   username: lucasch #twitter username here
-
 # Optional settings
 github: mrlucasch#your github username
 linkedin: lucaschaufournier #linkedin username

@@ -1,8 +1,8 @@
 ---
 layout: page
 title: About Me
-description: The story of a Bucket
-quote: "Stand aside. Giggle."
+description: Who am I? Who are you?
+quote: "If you are a student you should always get a good nights sleep unless you have come to the good part of your book, and then you should stay up all night and let your schoolwork fall by the wayside, a phrase which means 'flunk'. -- Lemony Snicket"
 permalink: /about/
 ---
 

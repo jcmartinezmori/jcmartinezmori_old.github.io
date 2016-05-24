@@ -1,6 +1,6 @@
 ---
 layout: post-no-feature
-title: Blog Under Construction 
+title: Blog In Progress
 description: "Like a fine wine, a good blog takes time to age and build quality"
 quote: "Just because something is traditional is no reason to do it, of course. -- Lemony Snicket"
 mathjax: true

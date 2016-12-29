@@ -17,6 +17,8 @@ My first project was focused on comparing different virtualization platforms, su
 
 Our results were presented in a paper at the 17th proceedings of the International Middleware Conference in Trento, Italy. Our paper can be found [here](/research/containers-vms).
 
+---
+
 # Publications
 
 **Containers and Virtual Machines at Scale: A Comparative Study**  

@@ -195,15 +195,6 @@ You may find that you want to redirect your official CS page from umass to your 
 2. Navigate to your public_html folder.
 3. Create a file titled index.html and place the following content into it:
 
-```
-<html>
-<head>
-<meta http-equiv="refresh" content="0; URL='http://mrlucasch.github.io'" />
-</head>
-
-
-</html>
-```
 
 
 *Be sure to replace the URL with your github page address*

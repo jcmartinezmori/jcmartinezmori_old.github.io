@@ -194,7 +194,8 @@ You may find that you want to redirect your official CS page from umass to your 
 1. First log into loki.cs.umass.edu with your cs account
 2. Navigate to your public_html folder.
 3. Create a file titled index.html and place the following content into it:
-<pre><code>
+
+```
 <html>
 <head>
 <meta http-equiv="refresh" content="0; URL='http://mrlucasch.github.io'" />
@@ -202,6 +203,7 @@ You may find that you want to redirect your official CS page from umass to your 
 
 
 </html>
-</code></pre>
+```
+
 
 *Be sure to replace the URL with your github page address*

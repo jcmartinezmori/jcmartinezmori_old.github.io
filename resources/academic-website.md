@@ -187,3 +187,21 @@ Then add your blog post content after the ```---```. Your post can consist of an
 3. Scroll down to `GitHub Pages`
 4. Under source, select the `master branch` and then hit save.
 5. Access your website from GITHUBUSERNAME.github.io
+
+
+## Redirect from UMass CSCF Page 
+You may find that you want to redirect your official CS page from umass to your github repo. This is a very easy process.
+1. First log into loki.cs.umass.edu with your cs account
+2. Navigate to your public_html folder.
+3. Create a file titled index.html and place the following content into it:
+<pre><code>
+<html>
+<head>
+<meta http-equiv="refresh" content="0; URL='http://mrlucasch.github.io'" />
+</head>
+
+
+</html>
+</code></pre>
+
+*Be sure to replace the URL with your github page address*

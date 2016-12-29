@@ -195,6 +195,6 @@ You may find that you want to redirect your official CS page from umass to your 
 2. Navigate to your public_html folder.
 3. Create a file titled index.html and place the following content into it:
 
-{% include image.html url="/images/html_redirect.png" caption="redirect code" width=300 align="center" %}
+{% include image.html url="/images/html_redirect.png" caption="redirect code" width=700 align="center" %}
 
 *Be sure to replace the URL with your github page address*

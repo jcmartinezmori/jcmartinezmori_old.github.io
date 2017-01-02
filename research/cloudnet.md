@@ -30,9 +30,9 @@ Illinois, CloudNet's optimizations reduce memory migration time
 by 65% and lower bandwidth consumption for
 
 # Paper
-Download [Here](http://itsalgorithmic.com/papers/cloudnet/TON15-cloudnet.pdf)
+Download [Here](http://mrlucasch.github.io/research/cloudnet/cloudnet.pdf)
 
-{% include embedpaper.html code="cloudnet/TON15-cloudnet.pdf" width=100 height=800 %}
+{% include embedpaper.html code="cloudnet/cloudnet.pdf" width=100 height=800 %}
 
 # Bibtex
 

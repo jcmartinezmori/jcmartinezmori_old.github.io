@@ -34,7 +34,7 @@ Download [Here](http://itsalgorithmic.com/papers/middleware16/middleware16.pdf)
 
 # Slides
 
-Download [Here](http://itsalgorithmic.com/research/middleware16/mw.pdf)
+Download [Here](http://mrlucasch.github.io/research/middleware16/mw.pdf)
 
 {% include embedpaper.html code="middleware16/mw.pdf" width=100 height=500 %}
 

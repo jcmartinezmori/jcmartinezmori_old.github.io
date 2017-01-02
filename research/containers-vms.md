@@ -28,7 +28,7 @@ affect the management and development of applications. Lastly, we
 evaluate novel approaches which combine hardware and OS virtualization.
 
 # Paper
-Download [Here](http://itsalgorithmic.com/papers/middleware16/middleware16.pdf)
+Download [Here](http://mrlucasch.github.io/papers/middleware16/middleware16.pdf)
 
 {% include embedpaper.html code="middleware16/middleware16.pdf" width=100 height=800 %}
 

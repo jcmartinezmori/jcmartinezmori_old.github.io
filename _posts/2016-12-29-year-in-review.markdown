@@ -38,7 +38,7 @@ I used to not feel stress that often or let it affect my work but recently I hav
 
 ## The Art of Cooking
 
-{% include image.html url="/images/cooking.jpg" caption="Top: All the cookbooks! Bottom: Edible Food" width=500 align="center" %}
+{% include image.html url="/images/food.jpg" caption="Top: All the cookbooks! Bottom: Edible Food" width=500 align="center" %}
 
 After starting graduate school and balancing my budget, it quickly became apparent that the most frugal option for food was to cook it myself and only occasionally get take out. 2016 saw a massive improvement in the amount of cooking vs take out meals. Unfortunately since I was just learning to cook, the food was rather bland and unexciting. For 2017, I want to increase my cooking capability to cook good cheap food. While cleaning out my grandmothers house after her passing last year, I have collected a bunch of new cookbooks and recipes [See Picture]. I hope to work through these books to cook delicious meals on the cheap.   
 

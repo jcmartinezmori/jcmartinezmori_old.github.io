@@ -12,6 +12,9 @@ Tell us about your blog. Hopefully it's cool.
   <!--{% if post.categories contains 'notebook' %}
   {% continue %}
   {% endif %}-->
+  {% if post.categories contains 'draft' %}
+  {% continue %}
+  {% endif %}
   {% if year != y %}
     {% assign year = y %}
     <li class="listing-seperator">{{ y }}</li>

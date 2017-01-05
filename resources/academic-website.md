@@ -191,6 +191,7 @@ Then add your blog post content after the ```---```. Your post can consist of an
 
 ## Redirect from UMass CSCF Page 
 You may find that you want to redirect your official CS page from umass to your github repo. This is a very easy process.
+
 1. First log into loki.cs.umass.edu with your cs account
 2. Navigate to your public_html folder.
 3. Create a file titled .htaccess and place the following content into it:
@@ -206,3 +207,12 @@ chown CS_USERNAME .htaccess
 chmod 644 .htaccess
 ```
 *Replace `CS_USERNAME` with your cs id.*
+
+# Displaying your research papers on your website.
+
+If you have perused my website you may have noticed I have a unique way of displaying my research papers. 
+I like to provide an easy way to view my research and have everything in one place (including slides, bibtex, pdfs,datasets, etc.)
+You can see an example [here.](http://itsalgorithmic.com/research/containers-vms/)
+
+If you are interested in doing something similar, reach out to me and I can fill you in on how to structure and create something similar for your research.
+

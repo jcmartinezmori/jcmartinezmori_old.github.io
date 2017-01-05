@@ -195,12 +195,15 @@ You may find that you want to redirect your official CS page from umass to your 
 1. First log into loki.cs.umass.edu with your cs account
 2. Navigate to your public_html folder.
 3. Create a file titled .htaccess and place the following content into it:
+
 ```
   RewriteEngine on
   RewriteBase /
   RewriteRule ^(.*)$ http://mrlucasch.github.io/$1 [L,R=301,NC]
 ```
+
 *Be sure to replace the `mrlucasch.github.io` with your github page address. Make sure to leave `/$1`*
+
 4. Change the permissions on the .htaccess file:
 ```
 chown CS_USERNAME .htaccess

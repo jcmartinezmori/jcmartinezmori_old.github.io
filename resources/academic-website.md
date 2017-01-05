@@ -204,7 +204,7 @@ You may find that you want to redirect your official CS page from umass to your 
 
 *Be sure to replace the `mrlucasch.github.io` with your github page address. Make sure to leave `/$1`*
 
-4. Change the permissions on the .htaccess file:
+4.  Change the permissions on the .htaccess file:
 
 ```
 chown CS_USERNAME .htaccess

@@ -1,0 +1,70 @@
+<!DOCTYPE html>
+<html>
+<head>
+  <meta charset="utf-8">
+  <meta http-equiv="X-UA-Compatible" content="IE=edge">
+  <!-- common.css -->
+  <style>* {-webkit-tap-highlight-color: rgba(0,0,0,0);}html {-webkit-text-size-adjust: none;}body {font-family: Arial, Helvetica, sans-serif;margin: 0;color: #333;word-wrap: break-word;}h1, h2, h3, h4, h5, h6 {line-height: 1.1;}img {max-width: 100% !important;}blockquote {margin: 0;padding: 0 15px;color: #777;border-left: 4px solid #ddd;}hr {background-color: #ddd;border: 0;height: 1px;margin: 15px 0;}code {font-family: Menlo, Consolas, 'Ubuntu Mono', Monaco, 'source-code-pro', monospace;line-height: 1.4;margin: 0;padding: 0.2em 0;font-size: 85%;background-color: rgba(0,0,0,0.04);border-radius: 3px;}pre > code {margin: 0;padding: 0;font-size: 100%;word-break: normal;background: transparent;border: 0;}ol {list-style-type: decimal;}ol ol, ul ol {list-style-type: lower-latin;}ol ol ol, ul ol ol, ul ul ol, ol ul ol {list-style-type: lower-roman;}table {border-spacing: 0;border-collapse: collapse;margin-top: 0;margin-bottom: 16px;}table th {font-weight: bold;}table th, table td {padding: 6px 13px;border: 1px solid #ddd;}table tr {border-top: 1px solid #ccc;}table tr:nth-child(even) {background-color: #f8f8f8;}input[type="checkbox"] {cursor: default;margin-right: 0.5em;font-size: 13px;}.task-list-item {list-style-type: none;}.task-list-item+.task-list-item {margin-top: 3px;}.task-list-item input {float: left;margin: 0.3em 1em 0.25em -1.6em;vertical-align: middle;}#tag-field {margin: 8px 2px 10px;}#tag-field .tag {display: inline-block;background: #cadff3;border-radius: 4px;padding: 1px 8px;color: black;font-size: 12px;margin-right: 10px;line-height: 1.4;}</style>
+  <!-- ace-static.css -->
+  <style>.ace_static_highlight {white-space: pre-wrap;}.ace_static_highlight .ace_gutter {width: 2em;text-align: right;padding: 0 3px 0 0;margin-right: 3px;}.ace_static_highlight.ace_show_gutter > .ace_line {padding-left: 2.6em;}.ace_static_highlight .ace_line {position: relative;}.ace_static_highlight .ace_gutter-cell {-moz-user-select: -moz-none;-khtml-user-select: none;-webkit-user-select: none;user-select: none;top: 0;bottom: 0;left: 0;position: absolute;}.ace_static_highlight .ace_gutter-cell:before {content: counter(ace_line, decimal);counter-increment: ace_line;}.ace_static_highlight {counter-reset: ace_line;}</style>
+  <style>.ace-chrome .ace_gutter {background: #ebebeb;color: #333;overflow : hidden;}.ace-chrome .ace_print-margin {width: 1px;background: #e8e8e8;}.ace-chrome {background-color: #FFFFFF;color: black;}.ace-chrome .ace_cursor {color: black;}.ace-chrome .ace_invisible {color: rgb(191, 191, 191);}.ace-chrome .ace_constant.ace_buildin {color: rgb(88, 72, 246);}.ace-chrome .ace_constant.ace_language {color: rgb(88, 92, 246);}.ace-chrome .ace_constant.ace_library {color: rgb(6, 150, 14);}.ace-chrome .ace_invalid {background-color: rgb(153, 0, 0);color: white;}.ace-chrome .ace_fold {}.ace-chrome .ace_support.ace_function {color: rgb(60, 76, 114);}.ace-chrome .ace_support.ace_constant {color: rgb(6, 150, 14);}.ace-chrome .ace_support.ace_type,.ace-chrome .ace_support.ace_class.ace-chrome .ace_support.ace_other {color: rgb(109, 121, 222);}.ace-chrome .ace_variable.ace_parameter {font-style:italic;color:#FD971F;}.ace-chrome .ace_keyword.ace_operator {color: rgb(104, 118, 135);}.ace-chrome .ace_comment {color: #236e24;}.ace-chrome .ace_comment.ace_doc {color: #236e24;}.ace-chrome .ace_comment.ace_doc.ace_tag {color: #236e24;}.ace-chrome .ace_constant.ace_numeric {color: rgb(0, 0, 205);}.ace-chrome .ace_variable {color: rgb(49, 132, 149);}.ace-chrome .ace_xml-pe {color: rgb(104, 104, 91);}.ace-chrome .ace_entity.ace_name.ace_function {color: #0000A2;}.ace-chrome .ace_heading {color: rgb(12, 7, 255);}.ace-chrome .ace_list {color:rgb(185, 6, 144);}.ace-chrome .ace_marker-layer .ace_selection {background: rgb(181, 213, 255);}.ace-chrome .ace_marker-layer .ace_step {background: rgb(252, 255, 0);}.ace-chrome .ace_marker-layer .ace_stack {background: rgb(164, 229, 101);}.ace-chrome .ace_marker-layer .ace_bracket {margin: -1px 0 0 -1px;border: 1px solid rgb(192, 192, 192);}.ace-chrome .ace_marker-layer .ace_active-line {background: rgba(0, 0, 0, 0.07);}.ace-chrome .ace_gutter-active-line {background-color : #dcdcdc;}.ace-chrome .ace_marker-layer .ace_selected-word {background: rgb(250, 250, 255);border: 1px solid rgb(200, 200, 250);}.ace-chrome .ace_storage,.ace-chrome .ace_keyword,.ace-chrome .ace_meta.ace_tag {color: rgb(147, 15, 128);}.ace-chrome .ace_string.ace_regex {color: rgb(255, 0, 0)}.ace-chrome .ace_string {color: #1A1AA6;}.ace-chrome .ace_entity.ace_other.ace_attribute-name {color: #994409;}.ace-chrome .ace_indent-guide {background: url("data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAEAAAACCAYAAACZgbYnAAAAE0lEQVQImWP4////f4bLly//BwAmVgd1/w11/gAAAABJRU5ErkJggg==") right repeat-y;}</style>
+  <!-- export.css -->
+  <style>
+    body{margin:0 auto;max-width:800px;line-height:1.4}
+    #nav{margin:5px 0 10px;font-size:15px}
+    #titlearea{border-bottom:1px solid #ccc;font-size:17px;padding:10px 0;}
+    #contentarea{font-size:15px;margin:16px 0}
+    .cell{outline:0;min-height:20px;margin:5px 0;padding:5px 0;}
+    .code-cell{font-family:Menlo,Consolas,'Ubuntu Mono',Monaco,'source-code-pro',monospace;font-size:12px;}
+    .latex-cell{white-space:pre-wrap;}
+  </style>
+  <!-- User CSS -->
+  <style> .text-cell {font-size: 15px;}.code-cell {font-size: 12px;}.markdown-cell {font-size: 15px;}.latex-cell {font-size: 15px;}</style>
+</head>
+<body>
+  
+  <div id="titlearea">
+    <h2>I Moustache You A Question: A Hard Hitting Expose on the Development of a Moustache</h2>
+  </div>
+  <div id="contentarea"><div class="cell markdown-cell"><h1 id="abstract">Abstract</h1>
+<p>Brought to you by the creative genius behind the years most innovative web series "Wikipedia with Lucas", <em>I Moustache You A Question</em> presents an in depth look at the development of what once was referred to by a random stranger in Panera Bread as "Awesome". </p>
+<h2 id="reviews-for-i-moustache-you-a-question-">Reviews for <em>I Moustache You A Question</em></h2>
+<p>"Truly breathtaking" -- The Author</p>
+<p>"A story like this comes along once in a millenia, it's truly that bad." -- The Author's Mother </p>
+<p>"Can I have the last four minutes of my life back please." -- Some random dude on the street.</p>
+<p>"Who's the kid in the first picture in the blue shirt. He's cute" -- Lucas</p>
+</div><div class="cell markdown-cell"><h1 id="the-beginning">The Beginning</h1>
+<p><img src="resources/2DF334921A72E17B29F2414F077D2B2E.jpg" alt="first.jpg"></p>
+<p>We went way back into the archives to see if we could trace down the origin story. Look at these two damn stylish lads. We may have gone back too far as it seems we ventured into the era of pre-facial hair and towards the tail end of what is known as the chunky-monkey era. Let's venture a little forward in time to see if we can uncover more clues!</p>
+</div><div class="cell markdown-cell"><h1 id="high-school">High School</h1>
+<p><img src="resources/4A1C5564A798C04310222A61FDD98438.jpg" alt="high_school.jpg"><br>We now venture into the high school years. These years don't offer much up in the explanation of facial hair but they do provide some very important clues. The hair cut!! We now suspect that the poor hair cut's during these years were an early indication of the rebellion that would inspire the eventual moustache!</p>
+</div><div class="cell markdown-cell"><p><img src="resources/A923315C0E81B5128814865181AF669F.jpg" alt="boating.jpg"><br>The semi bangs cut.</p>
+</div><div class="cell markdown-cell"><h1 id="the-college-years">The College Years</h1>
+</div><div class="cell markdown-cell"><p><img src="resources/74B69282A6131873081D9D4EAD49B616.jpg" alt="first_inklings.jpg"><br>Here we see the first indications of facial hair. As you can see, the subject has started to grow hair as a result of those cold Wyoming winters. This appears to be the first evidence of dabbling in the facial hair arts. Hopefully, we can start to see progress from here.</p>
+</div><div class="cell markdown-cell"><h1 id="gotcha">Gotcha</h1>
+</div><div class="cell markdown-cell"><p><img src="resources/1598B19E4E7D969B8AA3AE5539A67B7A.jpg" alt="awful.jpg"><br>Alas it was just a false flag. Here you can see the subject removed the facial hair in favor of the clean shaven look. Look at him brag about his cleanliness.</p>
+</div><div class="cell markdown-cell"><h1 id="further-regression-">Further Regression...</h1>
+</div><div class="cell markdown-cell"><p><img src="resources/18C45901148F17D505905A85594AF0F6.jpg" alt="dress.jpg"><br>The subject seems to have regressed even further. We aren't quite sure the context of this picture but it appears the subject was spot-testing the bearded lady look. The bearded lady look is a prime example of a first start at mastering the facial hair dark arts.</p>
+</div><div class="cell markdown-cell"><h1 id="rebounding-">Rebounding...</h1>
+</div><div class="cell markdown-cell"><p><img src="resources/F0CE49BF5CBAD0C6C78206F57FC84837.jpg" alt="google_glass.jpg"><br>As we move forward a few years, we see that the subject has adopted the young professional look. This is a nicely trimmed full faced beard. A typical sight when walking around the streets of any normal city. </p>
+</div><div class="cell markdown-cell"><h1 id="please-officer-it-was-only-an-experiment">Please Officer, it was only an experiment</h1>
+</div><div class="cell markdown-cell"><p><img src="resources/89D59320D372650D83ACB44E1ED2FEC2.jpg" alt="cops.JPG"><br>Here we see the subject during a routine traffic stop. The subject is donning what some refer to as a truly horrible 'stache. This is the first real indication of a desire for moustache-ness and an example of trying out the waters. Some say the reason the cop pulled us over was not for the stated reason of "the car not being state inspected" but rather the officer could not stand the such awful facial hair.</p>
+</div><div class="cell markdown-cell"><h1 id="the-denim-vigilantes">The Denim Vigilantes</h1>
+</div><div class="cell markdown-cell"><p><img src="resources/60D8E21E6F446C38445C1BE334D7E5CF.jpg" alt="denim_vigilantes.JPG"><br>Here we have the subject during the summer when he joined a Vigilante Super Hero group: The Denim Vigilantes. We patrolled the streets of Rehoboth Beach looking to solve trouble but we may have inadvertantly caused some. (Wink, Wink, Nudge Nudge). There are rumors that a similar picture exists where the trio is wearing jean shorts, but those claims have yet to be verified.</p>
+</div><div class="cell markdown-cell"><h1 id="on-the-right-path">On the Right Path</h1>
+</div><div class="cell markdown-cell"><p><img src="resources/03A6893F483BCD9C8C1128D203FFB5C5.jpg" alt="progress.jpg"><br>Ah, the picture above is the first image of facial hair that resembles what we see today. This appears to be the first image depicting this style of moustache. It appears that this was when he set down the trail that led to where he is today.</p>
+</div><div class="cell markdown-cell"><h1 id="so-close-but-so-wrong">So Close, but So Wrong</h1>
+</div><div class="cell markdown-cell"><p><img src="resources/5077C4B9A7FD49520B8088D64ADD3F0E.png" alt="snapchat.png"><br>Here we see that he attempted to iterate over the previous incarnation and try the unkempt look. Unfortunately(or fortunately), the unkempt look obscured the moustache's prominence and did not last long.</p>
+</div><div class="cell markdown-cell"><h1 id="the-stache-goatee">The 'Stache Goatee</h1>
+</div><div class="cell markdown-cell"><p><img src="resources/0731E9E9B6E72D0C322F45040746C96B.jpg" alt="renfest.JPG"><br>Here we see the subject in his natural habitat as a Pirate. We can see he gave up on the unkempt look and resorted to the second worst facial hair style: the goatee. This style while much better looking was soon replaced with what became the final incarnation.</p>
+</div><div class="cell markdown-cell"><h1 id="glory-is-revealed-and-the-end-of-the-jedi-">Glory is Revealed and the End of the Jedi!</h1>
+</div><div class="cell markdown-cell"><p><img src="resources/67719FBA231C7984BC0AC6BB8842901F.jpg" alt="second_to_last.jpg"><br>Here we have the last good picture of the moustache before the unfortunate straightening incident. Ever a curious person, he asked Eliza, an ancient sith, to straighten it and it just never curled the same again! R.I.P. moustache.</p>
+</div><div class="cell markdown-cell"><h1 id="a-new-hope">A New Hope</h1>
+</div><div class="cell markdown-cell"><p><img src="resources/B3670AD38012B2F4E0FBE824DAEEB258.jpg" alt="last.jpg"><br>Finally, we have arrived at today's incarnation. With new moustache wax in hand, there is a new hope that it may return and be stronger than ever. </p>
+</div><div class="cell markdown-cell"><h1 id="happy-birthday-">Happy Birthday!!!</h1>
+<p>So here's to a happy birthday and many better version's of that thing you call art!<br><img src="resources/FE6602B607629EC8491304B4A01C23B9.jpg" alt="whiplash.jpg"></p>
+</div><div class="cell markdown-cell"><h1 id="the-end">The End</h1>
+</div><div class="cell markdown-cell"></div><div class="cell markdown-cell"></div><div class="cell markdown-cell"></div><div class="cell markdown-cell"></div><div class="cell markdown-cell"></div><div class="cell markdown-cell"></div></div>
+  <script></script>
+</body>
+</html>

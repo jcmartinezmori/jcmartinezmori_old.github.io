@@ -70,3 +70,14 @@ $ tmux kill-session -t session-name
 |x |	kill pane|
 |t |	show time in pane|
 |z |	min/max pane|
+
+
+## Customizing tmux
+
+You can customize tmux by modifying the `~/.tmux.conf` file.
+
+For example if you wish to keybind the sync command, then you would place the following line in your tmux file:
+```
+bind e setw synchronize-panes
+```
+This keybinds Ctl-b e to toggle syncing panes on and off

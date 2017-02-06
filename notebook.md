@@ -10,6 +10,9 @@ This is my open research notebook.
 {% for post in site.posts %}
   {% capture y %}{{post.date | date:"%Y"}}{% endcapture %}
   {% if post.categories contains 'notebook' %}
+    {% if post.categories contains 'draft' %}
+    {% continue %}
+    {% endif %}
   {% if year != y %}
     {% assign year = y %}
     <li class="listing-seperator">{{ y }}</li>

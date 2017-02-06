@@ -13,6 +13,10 @@ This is my open research notebook.
     {% if post.categories contains 'draft' %}
     {% continue %}
     {% endif %}
+    {% if post.categories contains 'template' %}
+    {% continue %}
+    {% endif %}
+
   {% if year != y %}
     {% assign year = y %}
     <li class="listing-seperator">{{ y }}</li>

@@ -254,3 +254,25 @@ so that `paper1/slides.pdf` points to the directory you created and the pdf of t
 Under Bibtex, place the bibtex for the paper between the `<pre><code>` and `</code></pre>` sections.
 
 Now when you link to a copy of your paper, you can link to `/research/paper1` (note paper1 is the name of the markdown file not the directory) and nicely display your research.
+
+---
+
+# Maintaining an Open Research Notebook
+
+
+
+I have recently added the optional ability to host an open research notebook. An example is [here](http://mrlucasch.github.io/notebook). This page functions similarly to the way the blog page works except it is more specialized.
+To use the open notebook feature, open the `_data/menu.yml` file and uncomment the following:
+
+```
+  - title: "Research Notebook"
+    href: "/notebook"
+
+```
+
+This will add a menu entry that points to the notebook page. The notebook page has the exact same functionality as the 
+blog page except that it only displays pages with the `notebook` tag. To create a new entry, create a new file in the `_posts` directory
+in the same manner you would a blog post. An example post is included already titled `2017-01-01-weekly-template.markdown`. To have the post appear
+in the notebook, under categories just append the `notebook` category and it will automatically be included. It is up to you how you want to format it,
+but I generally included tasks I have completed, any results, and how to's related to my research. Feel free to modify the template as you see fit. 
+

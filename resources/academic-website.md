@@ -240,13 +240,13 @@ Under Abstract, place the abstract for your paper.
 
 Modify
   ```
-  {% include embedpaper.html code="paper1/paper.pdf" width=100 height=800 %}
+ code="paper1/paper.pdf"
   ```
   so that `paper1/paper.pdf` points to the directory you created and the pdf of the paper.
 
 Modify 
 ```
-{% include embedpaper.html code="paper1/slides.pdf" width=100 height=500 %}
+code="paper1/slides.pdf"
 ```
 so that `paper1/slides.pdf` points to the directory you created and the pdf of the slides.
 

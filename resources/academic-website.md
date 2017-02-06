@@ -222,3 +222,36 @@ You can see an example [here.](http://itsalgorithmic.com/research/containers-vms
 
 If you are interested in doing something similar, reach out to me and I can fill you in on how to structure and create something similar for your research.
 
+To include your papers in a similar fashion you can do the following:
+
+1. Open `/_includes/embedpaper.html` and replace the `GITHUB-URL` with your github page url.
+2. Navigate to `/research/`. This directory will hold all of your papers. 
+3. The initial repo has a template for how papers and pdfs should be structured. For each of your 
+papers, you should create a directory inside of `/research/` that holds the pdf copies of your paper and slides. In the repo
+this is the paper1 directory. You should then create a markdown file for the paper, a sample is provided named paper1.md.
+4. Inside of `paper1.md` you should do the following:
+
+Replace all references to GITHUB-URL with your github url. You should also modify those url's with the 
+directory for your paper and the name of your pdfs. So in this case the url refers to the paper1 directory and the slides.pdf and paper.pdf files. 
+
+At the top of the page you should repalce `TITLE OF PAPER` with the title of your paper.
+
+Under Abstract, place the abstract for your paper.
+
+Modify
+  ```
+  {% include embedpaper.html code="paper1/paper.pdf" width=100 height=800 %}
+  ```
+  so that `paper1/paper.pdf` points to the directory you created and the pdf of the paper.
+
+Modify 
+```
+{% include embedpaper.html code="paper1/slides.pdf" width=100 height=500 %}
+```
+so that `paper1/slides.pdf` points to the directory you created and the pdf of the slides.
+
+
+Under Bibtex, place the bibtex for the paper between the `<pre><code>` and `</code></pre>` sections.
+
+
+

@@ -24,6 +24,7 @@ I maintain an open online research notebook that details my weekly research prog
 
 
 ---
+
 # Publications
 
 **Containers and Virtual Machines at Scale: A Comparative Study**  

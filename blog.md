@@ -9,10 +9,13 @@ Tell us about your blog. Hopefully it's cool.
 <ul class="listing">
 {% for post in site.posts %}
   {% capture y %}{{post.date | date:"%Y"}}{% endcapture %}
-  <!--{% if post.categories contains 'notebook' %}
+  {% if post.categories contains 'notebook' %}
   {% continue %}
-  {% endif %}-->
+  {% endif %}
   {% if post.categories contains 'draft' %}
+  {% continue %}
+  {% endif %}
+  {% if post.categories contains 'template' %}
   {% continue %}
   {% endif %}
   {% if year != y %}

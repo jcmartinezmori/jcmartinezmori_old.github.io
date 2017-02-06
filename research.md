@@ -3,7 +3,6 @@ layout: page
 title: Research
 permalink: /research/
 ---
-# Projects
 
 ## MPTCP
 My current project focuses on evaluating multipath transport protocols and how they behave in data center environments. I am mainly focusing on Multipath TCP and how it can improve the performance of various workloads in the data center such as VM Migrations and big data workloads. We are evaluating whether the throughput gains from mptcp can provide a large enough performance benefit for these workloads. This work will be part of my masters synthesis project at UMass. 
@@ -18,7 +17,10 @@ My first project was focused on comparing different virtualization platforms, su
 Our results were presented in a paper at the 17th proceedings of the International Middleware Conference in Trento, Italy. Our paper can be found [here](/research/containers-vms).
 
 ---
+# Online Research Notebook
+I maintain an open online research notebook that details my weekly research progress as an attempt to open up research to everyone. My notebook contains a single page per week that summarizes tasks I accomplished as well as any interesting results and thoughts. I hope to keep iterating over this format to provide the most convenient access to my research as possible. My notebook can be found [here](/notebook).
 
+---
 # Publications
 
 **Containers and Virtual Machines at Scale: A Comparative Study**  

@@ -22,7 +22,7 @@ Before I could provision the machines, I had to backup the environment for the m
 # This week's Results
 Unfortunately, I did not run any experiments this week as I was still cleaning up from our last paper and preparing infrastructure for our future work. 
 
-# What is up for next week?
+# What's up for next week?
 - Investigate data center workloads to run for our next project
 - Start working my way through the performance modeling book
 - Rack the new servers.

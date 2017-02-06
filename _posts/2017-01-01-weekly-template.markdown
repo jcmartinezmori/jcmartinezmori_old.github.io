@@ -11,4 +11,4 @@ categories: notebook template
 
 # This week's Results
 
-# What is up for next week?
+# What's up for next week?

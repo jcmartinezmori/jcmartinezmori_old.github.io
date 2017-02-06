@@ -253,5 +253,4 @@ so that `paper1/slides.pdf` points to the directory you created and the pdf of t
 
 Under Bibtex, place the bibtex for the paper between the `<pre><code>` and `</code></pre>` sections.
 
-
-
+Now when you link to a copy of your paper, you can link to `/research/paper1` (note paper1 is the name of the markdown file not the directory) and nicely display your research.

@@ -14,6 +14,11 @@ categories: notebook weekly
 - Found additional resources for studying performance modeling
 
 # Weekly Summary
+
+# Snow Day!
+We had a snow day this week where we received over 12inches of snow. The university was closed which means I was stuck at home with all of my distractions. Little work got done that day. Although 
+relaxing can be seen as necessary for working hard. 
+
 ## Modeling Work
 I finally started making my way through the modeling book. I am currently making my way through the probability review
 which is slow but will be useful. Parallel to this I spent some time compiling all of my notes 

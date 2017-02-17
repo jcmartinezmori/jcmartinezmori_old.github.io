@@ -37,7 +37,6 @@ I met with Don and Prashant to discuss the status of our MPTCP work and in which
 ### New Servers Saga
 
 
-{% include image.html url="/images/tmux_cssh.JPG" caption="Tmux-cssh at work" width=600 align="center" %}
 
 The saga with the new servers continues. I was able to rack the servers on Wednesday in a little under an hour which is a new record. I hooked up one server so that our group can use it for an unrelated health project until their server comes in. On Thursday, I got impatient waiting on our new switches, so I ventured back to the server room and hooked up the rest of the machines. I hooked up 8 servers directly to the main cluster network and then used two 8 port 1G switches to connect their two secondary interfaces. I also configured the servers with the MPTCP routing tables, and configurations we normally use. I went back to my old system admin toolbelt and brought out tmux-cssh to configure the machines. It's a tool that opens up terminals on all the machines and then runs the same command on each one. I was able to configure the machines in way less time!
 

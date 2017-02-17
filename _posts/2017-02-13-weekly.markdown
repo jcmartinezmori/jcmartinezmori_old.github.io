@@ -29,7 +29,7 @@ I spent most of the first half of this week catching up on my AI homework that w
 
 ### Don and Prashant Meeting
 
-{% include image.html url="/images/obelix_top.png" caption="Our New Topology" width=300 align="center" %}
+{% include image.html url="/images/obelix_top.png" caption="Our New Topology" width=600 align="center" %}
 
 I met with Don and Prashant to discuss the status of our MPTCP work and in which direction to proceed. We discussed different directions and decided to divide my time between the modeling work for edge clouds and the spark data center experiments. We finally decided on a topology that looks like the picture above. We use simple 1g switches and then aggregate them with 2 10gig switches. The redundant paths should hopefully allow MPTCP to function at its best and improve some of our research. We agreed to try and replicate some of the experiments in the [IBM HotCloud'16](https://www.usenix.org/node/196353) paper about Spark and the [Ir]relevance of network bounds. We also briefly discussed some possible resources for the modeling work. 
 
@@ -37,7 +37,7 @@ I met with Don and Prashant to discuss the status of our MPTCP work and in which
 ### New Servers Saga
 
 
-{% include image.html url="/images/tmux_cssh.JPG" caption="Tmux-cssh at work" width=300 align="center" %}
+{% include image.html url="/images/tmux_cssh.JPG" caption="Tmux-cssh at work" width=600 align="center" %}
 
 The saga with the new servers continues. I was able to rack the servers on Wednesday in a little under an hour which is a new record. I hooked up one server so that our group can use it for an unrelated health project until their server comes in. On Thursday, I got impatient waiting on our new switches, so I ventured back to the server room and hooked up the rest of the machines. I hooked up 8 servers directly to the main cluster network and then used two 8 port 1G switches to connect their two secondary interfaces. I also configured the servers with the MPTCP routing tables, and configurations we normally use. I went back to my old system admin toolbelt and brought out tmux-cssh to configure the machines. It's a tool that opens up terminals on all the machines and then runs the same command on each one. I was able to configure the machines in way less time!
 

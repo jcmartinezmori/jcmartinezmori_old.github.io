@@ -1,7 +1,7 @@
 ---
 layout: post
 title:  "February 27th to March 3rd 2017"
-date:   2017-02-06 15:36:27
+date:   2017-02-06 8:13:27
 categories: notebook weekly
 ---
 
@@ -31,6 +31,8 @@ Every year we have an open house for new Phd candidates to explore the departmen
 ### Research Poster
 
  In preparation for Friday, Prashant asked me to build a poster to showcase my research, and I do love building posters, so he did not have to ask me twice! I constructed a more general poster on edge clouds as a concept rather than a detailed research poster. I hope to post it soon. This poster will also serve as a good visual for when we have visitors and I need to explain my research to them. I might post it on the wall outside our lab since that seems to be rather barren.
+
+ {% include embedcv.html code="/research/edge_cloud.pdf" width=100 height=800 %}
 
  ### Spark Emulator 
 

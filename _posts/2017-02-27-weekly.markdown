@@ -34,6 +34,8 @@ Every year we have an open house for new Phd candidates to explore the departmen
 
  {% include embedcv.html code="edge_cloud.pdf" width=100 height=800 %}
 
+
+
  ### Spark Emulator 
 
  On Monday, I tried running a spark shuffle emulator with larger flight sizes on our cluster. That failed in specatular fashion. It almost immediately crashes some of the machines. I am currently investigating what the cause is and will update this post as necessary.

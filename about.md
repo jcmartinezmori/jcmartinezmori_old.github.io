@@ -23,10 +23,10 @@ In Fall 2016, I started the Phd program at The University of Massachusetts Amher
 
 
 During a particularly uneventful summer in Amherst I decided to join the [local rock gym](https://www.centralrockgym.com/hadley/) and have loved climbing ever since. I find that climbing allows me to free my mind while also performing a form of active problem solving. It also has allowed me to meet some really cool people that are also into the sport. I stick to mainly top rope but venture into bouldering when I’m stressed and can’t find a belay partner. 
-I’m currently climbing 5.9 routes and continuously working towards higher difficulty. 
+I’m currently climbing 5.10 routes and continuously working towards higher difficulty. 
 
-I am also currently training 
-for the lead climbing class at my gym and hope to take the class during February 2017. Hopefully if all goes well, I will be able to move outdoors during summer 2017.
+~~I am also currently training 
+for the lead climbing class at my gym and hope to take the class during February 2017.~~ I finally took the lead class during the end of Februrary! Lead climbing has introduced me to a whole new world of climbing and it is hard to go back to top rope. I hope to soon lead climb at the same level as my top roping skills.  Hopefully if all goes well, I will be able to move outdoors during summer 2017.
 If you are in Amherst and want to give climbing a try, 
 let me know and I can show you the ropes! (Ha ha!)
 

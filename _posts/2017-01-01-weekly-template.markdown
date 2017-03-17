@@ -2,6 +2,7 @@
 layout: post
 title:  "Start Date to End Date"
 date:   2017-02-06 15:36:27
+permalink: /notebook/weekly/020117
 categories: notebook template
 ---
 

@@ -2,6 +2,7 @@
 layout: post
 title:  "February 13th to February 17th 2017"
 date:   2017-02-17 15:36:27
+permalink: /notebook/weekly/021317
 categories: notebook weekly
 ---
 

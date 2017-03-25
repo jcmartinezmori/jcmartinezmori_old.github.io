@@ -36,6 +36,8 @@ let me know and I can show you the ropes! (Ha ha!)
 
 Like many 20-somethings I have a bit of wanderlust and seek to travel any chance I can get. During the summer before I started graduate school, I traveled through Thailand, Myanmar (or Burma), and India with a group of close friends. It was a fantastic experience getting to know other cultures and local customs and I even learned a lot about myself. I hope to take some time each year to travel to new locations and experience the cultures of the world. Hopefully a conference or two will take me somewhere far and interesting! 
 
+My most recent trip was a week long trip to France to visit my cousins and great aunt in Chambèry, France. We took a trip up to Valloire where I re-learned to ski. I had a blast and it made me realize I would like to explore more of France. I'm hoping my next adventure will be an extended stay in France where I can backpack throughout the North and South. 
+
 # Human Geography
 <!--{% include image.html url="/images/octojekyll.png" caption="Octojekyll." width=300 align="right" %}
 -->

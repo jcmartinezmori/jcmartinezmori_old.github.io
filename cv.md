@@ -14,4 +14,4 @@ I embed a current version of my CV below. You can also [download the PDF here](h
 
 My current contact information can be found on my business card below. You can also [download the PDF here](http://mrlucasch.github.io/research/chaufournier_card.pdf).
 
-{% include embedcv.html code="chaufournier_card.pdf" width=100 height=300 %}
+{% include embedcv.html code="chaufournier_card.pdf" width=100 height=500 %}

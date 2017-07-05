@@ -4,6 +4,8 @@ title: Research
 permalink: /research/
 ---
 
+{% include embedhighlight.html%}
+
 ## MPTCP
 My current project focuses on evaluating multipath transport protocols and how they behave in data center environments. I am mainly focusing on Multipath TCP and how it can improve the performance of various workloads in the data center such as VM Migrations and big data workloads. We are evaluating whether the throughput gains from mptcp can provide a large enough performance benefit for these workloads. This work will be part of my masters synthesis project at UMass. 
 

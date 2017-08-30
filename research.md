@@ -29,8 +29,8 @@ I maintain an open online research notebook that details my weekly research prog
 
 # Publications
 
-**Fast Transparent Virtual Machine Migration in Distributed Edge Clouds**
-Lucas Chaufournier, Prateek Sharma, Franck Le, Erich Nahum, Prashant Shenoy, Don Towsley
+**Fast Transparent Virtual Machine Migration in Distributed Edge Clouds**<br/>
+Lucas Chaufournier, Prateek Sharma, Franck Le, Erich Nahum, Prashant Shenoy, Don Towsley<br/>
 ACM/IEEE Symposium on Edge Computing 2017; To Appear
 
 **Containers and Virtual Machines at Scale: A Comparative Study**  

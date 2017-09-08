@@ -1,7 +1,7 @@
 ---
 layout: post
 title:  "September 4th - September 8th 2017."
-date:   2017-02-08 15:36:27
+date:   2017-09-08 15:36:27
 permalink: /notebook/weekly/090817
 categories: notebook weekly 
 ---

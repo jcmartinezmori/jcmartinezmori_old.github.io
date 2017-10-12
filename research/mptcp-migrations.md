@@ -30,13 +30,13 @@ eliminating downtimes for most applications.
 # Paper
 Download [Here](http://mrlucasch.github.io/research/sec17/sec17.pdf)
 
-{% include embedpaper.html code="sec17/middleware16.pdf" width=100 height=800 %}
+{% include embedpaper.html code="sec17/sec17.pdf" width=100 height=800 %}
 
 # Slides
 
 Download [Here](http://mrlucasch.github.io/research/sec17/sec17_slides.pdf)
 
-{% include embedpaper.html code="sec17/mw.pdf" width=100 height=500 %}
+{% include embedpaper.html code="sec17/sec17_slides.pdf" width=100 height=500 %}
 
 # Bibtex
 

@@ -10,7 +10,8 @@ permalink: /research/
 My current project focuses on evaluating multipath transport protocols and how they behave in data center environments. I am mainly focusing on Multipath TCP and how it can improve the performance of various workloads in the data center such as VM Migrations and big data workloads. We are evaluating whether the throughput gains from mptcp can provide a large enough performance benefit for these workloads. This work will be part of my masters synthesis project at UMass. 
 
 ## Edge Clouds
-My thesis will likely focus on edge clouds and their performance aspects. We are currently looking at modeling different properties of edge clouds and how they compare to standard data centers. This work is still early in its development. A dedicated page on edge clouds can be found here: [Edge Clouds](/research/edgeclouds/)
+My thesis will likely focus on edge clouds and their performance aspects. We are currently looking at modeling different properties of edge clouds and how they compare to standard data centers. This work is still early in its development. A dedicated page on edge clouds can be found here: [Edge Clouds](/research/edgeclouds/). We recently published a paper on Live 
+Migrating Virtual Machines at the edge with MPTCP. This work can be found here: [MPTCP Migrations](/research/mptcp-migrations)
 
 ## Virtualization
 
@@ -31,7 +32,7 @@ I maintain an open online research notebook that details my weekly research prog
 
 **Fast Transparent Virtual Machine Migration in Distributed Edge Clouds**<br/>
 Lucas Chaufournier, Prateek Sharma, Franck Le, Erich Nahum, Prashant Shenoy, Don Towsley<br/>
-ACM/IEEE Symposium on Edge Computing 2017; To Appear
+ACM/IEEE Symposium on Edge Computing 2017; [paper](/research/mptcp-migrations)
 
 **Containers and Virtual Machines at Scale: A Comparative Study**  
 Prateek Sharma, Lucas Chaufournier, Prashant Shenoy, Y.C. Tay  

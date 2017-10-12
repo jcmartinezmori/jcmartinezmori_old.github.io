@@ -1,7 +1,7 @@
 ---
 layout: page
 title: Fast Transparent Virtual Machine Migration in Distributed Edge Clouds
-permalink: /research/mptcp-migrations
+permalink: /research/mptcp-migrations/
 ---
 
 # Abstract

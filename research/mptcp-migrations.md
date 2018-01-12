@@ -41,6 +41,23 @@ Download [Here](http://mrlucasch.github.io/research/sec17/sec17_slides.pdf)
 # Bibtex
 
 <pre><code>
-TBD
+@inproceedings{Chaufournier:2017:FTV:3132211.3134445,
+ author = {Chaufournier, Lucas and Sharma, Prateek and Le, Franck and Nahum, Erich and Shenoy, Prashant and Towsley, Don},
+ title = {Fast Transparent Virtual Machine Migration in Distributed Edge Clouds},
+ booktitle = {Proceedings of the Second ACM/IEEE Symposium on Edge Computing},
+ series = {SEC '17},
+ year = {2017},
+ isbn = {978-1-4503-5087-7},
+ location = {San Jose, California},
+ pages = {10:1--10:13},
+ articleno = {10},
+ numpages = {13},
+ url = {http://doi.acm.org/10.1145/3132211.3134445},
+ doi = {10.1145/3132211.3134445},
+ acmid = {3134445},
+ publisher = {ACM},
+ address = {New York, NY, USA},
+ keywords = {WAN migration, edge computing, multipath TCP, virtual machine live migration},
+} 
 </code></pre>
 

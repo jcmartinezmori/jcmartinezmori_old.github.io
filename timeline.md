@@ -6,6 +6,7 @@ permalink: /timeline/
 
 
 # 2017
+- **October 2017**: Presented my work on migrations at SEC '17
 - **August 2017**: Completed my Internship at IBM Research.
 - **July 2017**: MPTCP SOCC Paper Rejected
 - **June 2017**: Fast Transparent Virtual Machine Migration in Distributed Edge Clouds accepted to ACM/IEEE SEC '17

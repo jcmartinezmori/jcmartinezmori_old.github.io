@@ -1,12 +1,12 @@
 # Site settings
-title: Lucas Chaufournier
-email: lucasch@cs.umass.edu
+title: Juan Carlos Martínez Mori
+email: jm2638@cornell.edu
 description: > # this means to ignore newlines until "baseurl:"
   "It is one of life's bitterest truths that bedtime so often arrives just when things are really getting interesting." -- Lemony Snicket
 baseurl: "" # the subpath of your site, e.g. /blog/
-url: "http://mrlucasch.github.io" # the base hostname & protocol for your site
+url: "http://martinezmori.github.io" # the base hostname & protocol for your site
 twitter_username: lucasch
-github_username:  mrlucasch
+github_username:  martinezmori
 
 # Build settings
 markdown: kramdown

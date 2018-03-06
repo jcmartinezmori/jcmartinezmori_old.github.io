@@ -1,7 +1,7 @@
 ---
 layout: page
-title: Coursework
-permalink: /coursework/
+title: Honors
+permalink: /honors/
 ---
 
 {% include embedhighlight.html%}

@@ -4,7 +4,7 @@ title: About
 permalink: /about/
 ---
 
-{% include image.html url="/images/lucas_statue.jpg" caption="" width=300 align="left" %}
+{% include image.html url="/images/ctech.jpg" caption="" width=300 align="left" %}
 
 I am a first year PhD student in Systems at Cornell University. My advisor is [Samitha Samaranayake](https://cee.cornell.edu/samitha/). Prior to joining Cornell, I was a research intern at Bosch.
 

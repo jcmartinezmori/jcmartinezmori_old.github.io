@@ -10,7 +10,7 @@ permalink: /teaching/
 ## At Illinois
 
 ### Engineering Learning Assistant, ENG 100: Engineering Orientation. 
-Fall 2015, Fall 2016. 
+Fall 2015, Fall 2016
 
 This course introduces freshmen engineering students to the engineering profession, including the wide variety of studies and potential careers.
 

@@ -13,17 +13,3 @@
 
 - title: "Timeline"
   href: "/timeline/"
-
-- title: "Resources"
-  href: "/resources/"
-  subcategories:
-    - subtitle: "Build an Academic Website"
-      subhref: "/resources/academic-website/"
-    - subtitle: "How I Work"
-      subhref: "/resources/how-i-work/"
-    - subtitle: "LXC"
-      subhref: "/resources/lxc"
-    - subtitle: "Tmux"
-      subhref: "/resources/tmux"
-    - subtitle: "KVM"
-      subhref: "/resources/kvm"

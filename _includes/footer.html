@@ -9,9 +9,9 @@
         <ul class="contact-list">
           <li><strong>{{ site.title }}</strong></li>
           {% if site.cv %}
-          <form method="get" action="http://mrlucasch.github.io/research/lucas_chaufournier.pdf">
-            <button type="submit">Curriculum vitae</button>
-          </form>
+          <a href="http://mrlucasch.github.io/research/lucas_chaufournier.pdf" download="proposed_file_name">
+            Curriculum Vitae
+          </a>
           {% endif %}
           <li><a href="mailto:{{ site.email }}">{{ site.email }}</a></li>
         </ul>

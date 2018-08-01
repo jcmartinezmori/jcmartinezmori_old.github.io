@@ -8,7 +8,7 @@ description: > # this means to ignore newlines until "baseurl:"
   que toda la vida es sueño,
   y los sueños, sueños son." -- Pedro Calderón de la Barca (1635)
 baseurl: "" # the subpath of your site, e.g. /blog/
-url: "http://martinezmori.github.io" # the base hostname & protocol for your site
+url: "http://jcmartinezmori.github.io" # the base hostname & protocol for your site
 twitter_username: jcmartinezmori
 github_username:  jcmartinezmori
 

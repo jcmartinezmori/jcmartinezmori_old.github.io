@@ -6,7 +6,9 @@ permalink: /research/
 
 {% include embedhighlight.html%}
 
-## Ongoing Projects
+## Hybrid Microtransit
 
-## Publications
+## Batched Set Cover
+
+### Publications
 You can find a list of publications in my curriculum vitae.

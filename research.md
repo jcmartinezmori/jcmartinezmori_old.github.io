@@ -26,3 +26,9 @@ I am broadly interested in the intersection of transportation and algorithms. On
 11/20/18: Today I read <a href="https://www.sciencedirect.com/science/article/pii/0022000088900037">Probabilistic Construction of Deterministic Algorithms: Approximating Packing Integer Programs</a>, by Prabhakar Rhagavan.
 
 11/19/18: Today I read <a href="https://journals.plos.org/plosone/article?id=10.1371/journal.pone.0085777">powerlaw: A Python Package for Analysis of Heavy-Tailed Distributions</a>, by Jeff Alstott, Ed Bullmore, and Dietmar Plenz.
+
+10/25/18: Today I read <a href="https://arxiv.org/pdf/1810.08345.pdf">A Matrix Chernoff Bound for Strongly Rayleigh Distributions and Spectral Sparsifiers from a few Random Spanning Trees</a>, by Rasmus Kyng and Zhao Song.
+
+10/24/18: Today I read <a href="https://pubsonline.informs.org/doi/pdf/10.1287/opre.2017.1603">A O(log n / log log n)-Approximation Algorithm for the Asymmetric Traveling Salesman Problem</a>, by Arash Asadpour et al.
+
+10/21/18: Today I read <a href="https://arxiv.org/pdf/1704.03864.pdf">A Matrix Expander Chernoff Bound</a>, by Ankit Garg et al.

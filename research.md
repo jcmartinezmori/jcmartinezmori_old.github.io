@@ -10,7 +10,10 @@ permalink: /research/
 
 I am broadly interested in the intersection of transportation and algorithms. On the transportation side, I am interested in both the operations and broader impacts of high-occupancy modes of transportation such as public transit and high-capacity ridesharing. On the algorithms side, I am interested in approximation algorithms, randomized algorithms, parametrized algorithms, and online algorithms.
 
-## Publications 
+## Papers
+
+### Algorithms
+<a href=https://arxiv.org/abs/1811.10767">The Batched Set Cover Problem</a>, Manuscript, 2018. With Samitha Samaranayake.
 
 ### Transportation
 

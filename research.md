@@ -13,7 +13,7 @@ I am broadly interested in the intersection of transportation and algorithms. On
 ## Papers
 
 ### Algorithms
-<a href=https://arxiv.org/abs/1811.10767">The Batched Set Cover Problem</a>, Manuscript, 2018. With Samitha Samaranayake.
+<a href="https://arxiv.org/abs/1811.10767">The Batched Set Cover Problem</a>, Manuscript, 2018. With Samitha Samaranayake.
 
 ### Transportation
 

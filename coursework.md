@@ -9,7 +9,7 @@ permalink: /coursework/
 ## At Cornell
 CS 6820: Analysis of Algorithms (Prof. Robert Kleinberg)
 
-CS 6815: Pseudorandomness and Combinatorial Constructions (Prof. Eshan Chattopadhyay) [Fall 2018]
+CS 6815: Pseudorandomness and Combinatorial Constructions (Prof. Eshan Chattopadhyay)
 
 CRP 6860: Planning for Sustainable Transportation (Prof. Nicholas Klein)
 
@@ -17,7 +17,7 @@ ORIE 6300: Mathematical Programming I (Prof. David Shmoys)
 
 ORIE 6520: Applied Probability (Prof. Jamol Pender)
 
-SYSEN 6000: Complex Systems (Lecture Series) [Fall 2018]
+SYSEN 6000: Complex Systems (Lecture Series)
 
 ## At Illinois
 

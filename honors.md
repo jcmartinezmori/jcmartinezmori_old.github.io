@@ -6,6 +6,8 @@ permalink: /honors/
 
 {% include embedhighlight.html%}
 
+Dwight David Eisenhower Transportation Fellowship (FHWA), Fall 2018 - Summer 2019
+
 Dwight David Eisenhower Transportation Fellowship (FHWA), Fall 2017 - Summer 2018
 
 Graduate Fellowship (Systems at Cornell), Fall 2017

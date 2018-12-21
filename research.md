@@ -24,8 +24,7 @@ I am broadly interested in the intersection of transportation and algorithms. On
 <a href="https://www.tandfonline.com/doi/abs/10.1080/15472450.2018.1438274">Estimating traffic conditions from smart work zone systems</a>, Journal of Intelligent Transportation Systems, 2018. With Yanning Li and Daniel Work.
 
 ## Diary
-12/19/18: Today I read <a href="https://arxiv.org/pdf/0909.2849.pdf">The Asymmetric Traveling Salesman Problem on Graphs with Bo
-unded Genus</a>, by Shayan Oveis Gharan and Amin Saberi.
+12/19/18: Today I read <a href="https://arxiv.org/pdf/0909.2849.pdf">The Asymmetric Traveling Salesman Problem on Graphs with Bounded Genus</a>, by Shayan Oveis Gharan and Amin Saberi.
 
 12/3/18: Today I watched <a href="https://www.birs.ca/events/2018/5-day-workshops/18w5088/videos/watch/201809250934-OveisGharan.html">Thin Trees and the Asymmetric Traveling Salesman, Part 1</a>, by Shayan Oveis Gharan.
 

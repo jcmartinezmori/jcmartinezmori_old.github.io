@@ -13,15 +13,15 @@ CS 6815: Pseudorandomness and Combinatorial Constructions (Prof. Eshan Chattopad
 
 CRP 6860: Planning for Sustainable Transportation (Prof. Nick Klein)
 
-ORIE 6180: Online Decision-Making and Market Design (Prof. Sid Banerjee)
-
-ORIE 6300: Mathematical Programming I (Prof. David Shmoys)
-
-ORIE 6334: Combinatorial Optimization (Prof. David Williamson) [Fall 2019]
+MATH 6230: Differential Games and Optimal Control (Prof. Alex Vladimirsky) [Fall 2019]
 
 ORIE 6520: Applied Probability (Prof. Jamol Pender)
 
-MATH 6230: Differential Games and Optimal Control (Prof. Alex Vladimirsky) [Fall 2019]
+ORIE 6334: Combinatorial Optimization (Prof. David Williamson) [Fall 2019]
+
+ORIE 6300: Mathematical Programming I (Prof. David Shmoys)
+
+ORIE 6180: Online Decision-Making and Market Design (Prof. Sid Banerjee)
 
 SYSEN 6000: Complex Systems (Lecture Series)
 

@@ -21,6 +21,8 @@ ORIE 6334: Combinatorial Optimization (Prof. David Williamson) [Fall 2019]
 
 ORIE 6520: Applied Probability (Prof. Jamol Pender)
 
+MATH 6230: Differential Games and Optimal Control (Prof. Alex Vladimirsky) [Fall 2019]
+
 SYSEN 6000: Complex Systems (Lecture Series)
 
 ## At Illinois

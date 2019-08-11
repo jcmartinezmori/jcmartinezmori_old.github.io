@@ -7,6 +7,11 @@ permalink: /research/
 ## The Group Traveling Salesman Problem [Ongoing]
 With Chinmoy Dutta, David Shmoys, and Samitha Samaranayake.
 
+## Approximation Algorithms and Heuristics for the Pickup and Delivery Problem [Ongoing]
+With Adrian Hernandez and Samitha Samaranayake.
+
+
+
 ## Bounded Asymmetry in Road Networks [Link]
 With Samitha Samaranayake.
 

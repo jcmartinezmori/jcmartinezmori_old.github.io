@@ -11,7 +11,7 @@ With Chinmoy Dutta, David Shmoys, and Samitha Samaranayake.
 With Adrian Hernandez and Samitha Samaranayake.
 
 
-## Bounded Asymmetry in Road Networks [Link, [Code](https://github.com/jcmartinezmori/bounded_asymmetry_in_road_networks)]
+## Bounded Asymmetry in Road Networks [Paper, [Code](https://github.com/jcmartinezmori/bounded_asymmetry_in_road_networks)]
 With Samitha Samaranayake.
 
 This research came to be after first getting my feet wet with the metric Traveling Salesman Problem (TSP), which I was interested in because of it's notoriety and numerous natural applications. I spent some time studying its asymmetric variant, namely the ATSP, because TSP-like problems often take place in directed graphs. For instance, road networks contain one-way roads and congestion may depend on the direction of travel. Unfortunately, the known results for the ATSP are much less promising than those for the TSP (more complicated algorithms with worse performance guarantees). It's just a difficult problem!
@@ -31,7 +31,7 @@ In fact, pairs with high asymmetry ratio often look like this! (Source: Map data
 
 It would be rare that one wants to solve the TSP on every point of a road network. Rather, one typically focuses on a subspace consisting of points of interest. These points typically have non-negligible distance in-between (e.g., the salesman wants to travel around town rather than just going around the corner), justifying the use of algorithms for symmetric instances.
 
-## The Batched Set Cover Problem [[Link](https://arxiv.org/abs/1811.10767), [Code](https://github.com/jcmartinezmori/the_batched_set_cover_problem)]
+## The Batched Set Cover Problem [[Paper](https://arxiv.org/abs/1811.10767), [Code](https://github.com/jcmartinezmori/the_batched_set_cover_problem)]
 With Samitha Samaranayake.
 
 This research started as my final project for Bobby Kleinberg's course. I was interested in modeling an on-demand transit system with 'pop-up' bus stops, similar to what [Via](https://ridewithvia.com/) does, as an online set cover problem. In this application, the potential passenger pickup and dropoff locations are fixed, but they are only brought into the solution as needed by the online arrival of travel requests. Something didn't quite make sense though; travel requests are usually processed in batches rather than one-by-one, precisely to leverage any compatibility between them. Of course, in the worst-case adversarial setting, the adversary reveals batches that mimic the worst-case adversary for the well-studied online setting. To handle this, I instead explored the setting in which the adversary is required to reveal batches of at least a certain VC-dimension. It appears that the structure imposed can be leveraged by primal-dual algorithms to improve their competitive factor by some constant, but I wasn't able to demonstrate this mathematically. Still, I showed a lower bound for any competitive algorithm in this setting, motivated an intuitive primal-dual algorithm with simultaneous dual-variable updates, and explored its performance computationally. The figure below compares the worst-case competitive ratio of a sequential algorithm (left) and an algorithm with simultaneous updates (right) on the instance producing the demonstraded lower bound, as a function of the number of subsets of the ground set <i>m</i> and the VC-dimension requirement <i>z</i>.

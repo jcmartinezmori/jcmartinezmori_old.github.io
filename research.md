@@ -22,6 +22,13 @@ That said, as far as problems arising in road networks are concerned, it wasn't 
   <img src="/images/multiplemaxfactors.png" width="500" />
 </p>
 
+In fact, pairs with high asymmetry ratio often look like this (Source: Map data, Copyright, 2018 Google)!
+
+<p align="center">
+  <img src="/images/manhattanuv.png" width="300" />
+  <img src="/images/manhattanvu.png" width="300" /> 
+</p>
+
 It would be rare that one wants to solve the TSP on every point of a road network. Rather, one typically focuses on a subspace consisting of points of interest. These points typically have non-negligible distance in-between (e.g., the salesman wants to travel around town rather than just going around the corner), justifying the use of algorithms for symmetric instances.
 
 ## The Batched Set Cover Problem [[Link](https://arxiv.org/abs/1811.10767), [Code](https://github.com/jcmartinezmori/the_batched_set_cover_problem)]

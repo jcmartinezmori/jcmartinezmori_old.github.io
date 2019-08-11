@@ -4,9 +4,6 @@ title: Teaching
 permalink: /teaching/
 ---
 
-{% include embedhighlight.html%}
-
-
 ## At Illinois
 
 ### Engineering Learning Assistant, ENG 100: Engineering Orientation. 

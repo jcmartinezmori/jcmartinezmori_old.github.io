@@ -22,7 +22,7 @@ That said, as far as problems arising in road networks are concerned, it wasn't 
   <img src="/images/multiplemaxfactors.png" width="500" />
 </p>
 
-In fact, pairs with high asymmetry ratio often look like this (Source: Map data, Copyright, 2018 Google)!
+In fact, pairs with high asymmetry ratio often look like this! (Source: Map data &copy; 2018 Google)
 
 <p align="center">
   <img src="/images/manhattanuv.png" width="300" />

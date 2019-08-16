@@ -11,7 +11,7 @@ With Chinmoy Dutta, David Shmoys, and Samitha Samaranayake.
 With Adrian Hernandez and Samitha Samaranayake.
 
 
-## Bounded Asymmetry in Road Networks [Paper, [Code](https://github.com/jcmartinezmori/bounded_asymmetry_in_road_networks)]
+## Bounded Asymmetry in Road Networks [[Paper](https://www.nature.com/articles/s41598-019-48463-z), [Code](https://github.com/jcmartinezmori/bounded_asymmetry_in_road_networks)]
 With Samitha Samaranayake.
 
 This research came to be after first getting my feet wet with the metric Traveling Salesman Problem (TSP), which I was interested in because of it's notoriety and numerous natural applications. I spent some time studying its asymmetric variant, namely the ATSP, because TSP-like problems often take place in directed graphs. For instance, road networks contain one-way roads and congestion may depend on the direction of travel. Unfortunately, the known results for the ATSP are much less promising than those for the TSP (more complicated algorithms with worse performance guarantees). It's just a difficult problem!

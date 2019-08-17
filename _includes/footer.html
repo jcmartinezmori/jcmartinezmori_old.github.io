@@ -34,9 +34,18 @@
           {% endif %}
           
           {% if site.scholar_username %}
-          <li>
-            {% include icon-scholar.html username=site.scholar_username %}
-          </li>
+              <tr>
+                <td>
+                  <a href="https://scholar.google.com/citations?user={{ site.scholar_username }}">
+                    <i class="fa fa-google"></i> 
+                  </a>
+                </td>
+                <td>
+                  <a href="https://scholar.google.com/citations?user={{ site.scholar_username }}">
+                    Google Scholar
+                  </a>
+                </td>
+              </tr>
           {% endif %}
           
           {% if site.twitter_username %}

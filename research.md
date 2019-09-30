@@ -8,7 +8,15 @@ permalink: /research/
 With Chinmoy Dutta, David Shmoys, and Samitha Samaranayake.
 
 ## Approximation Algorithms and Heuristics for the Pickup and Delivery Problem [Ongoing]
-With Adrian Hernandez and Samitha Samaranayake.
+With Adrian Hernandez (undergraduate student) and Samitha Samaranayake.
+
+Adrian's undergraduate research experience is funded by the Louis Stokes Alliance for Minority Participation (LSAMP), administered by Diversity Programs in Engineering at Cornell University. 
+
+Adrian is interested in urban mobility and the logistics behind it. In his project, we are exploring the practical performance of approximation algorithms and heuristics for the pickup and delivery problem. This problem is at the core of the operations of on-demand ridesharing. We are interested in comparing their performance against branch-and-cut methods, which are guaranteed to find an optimal solution but do not run in polynomial time. Here's an example!
+
+<p align="center">
+  <img src="/images/adrians.png" width="400" />
+</p>
 
 
 ## Bounded Asymmetry in Road Networks [[Paper](https://www.nature.com/articles/s41598-019-48463-z), [Code](https://github.com/jcmartinezmori/bounded_asymmetry_in_road_networks)]

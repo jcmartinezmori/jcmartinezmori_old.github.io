@@ -12,7 +12,7 @@ With Adrian Hernandez (undergraduate student) and Samitha Samaranayake.
 
 Adrian's undergraduate research experience is funded by the Louis Stokes Alliance for Minority Participation (LSAMP), administered by Diversity Programs in Engineering at Cornell University. 
 
-Adrian is interested in urban mobility and the logistics behind it. In his project, we are exploring the practical performance of approximation algorithms and heuristics for the pickup and delivery problem. This problem is at the core of the operations of on-demand ridesharing. We are interested in comparing their performance against branch-and-cut methods, which are guaranteed to find an optimal solution but do not run in polynomial time. Here's an example!
+Adrian is interested in urban mobility and the logistics behind it. In his project, we are studying the pickup and delivery problem, which is at the core of the operations of on-demand ridesharing. We are interested in comparing the practical performance of approximation algorithms and heuristics, which run in polynomial time but may not be optimal, against branch-and-cut methods, which are optimal but may not run in polynomial time. Here's an example of the tours we obtain!
 
 <p align="center">
   <img src="/images/adrians.png" width="300" />

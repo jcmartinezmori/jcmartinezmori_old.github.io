@@ -15,7 +15,7 @@ Adrian's undergraduate research experience is funded by the Louis Stokes Allianc
 Adrian is interested in urban mobility and the logistics behind it. In his project, we are exploring the practical performance of approximation algorithms and heuristics for the pickup and delivery problem. This problem is at the core of the operations of on-demand ridesharing. We are interested in comparing their performance against branch-and-cut methods, which are guaranteed to find an optimal solution but do not run in polynomial time. Here's an example!
 
 <p align="center">
-  <img src="/images/adrians.png" width="400" />
+  <img src="/images/adrians.png" width="300" />
 </p>
 
 

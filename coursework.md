@@ -13,11 +13,13 @@ CS 6815: Pseudorandomness and Combinatorial Constructions (Prof. Eshan Chattopad
 
 CRP 6860: Planning for Sustainable Transportation (Prof. Nick Klein)
 
-MATH 6230: Differential Games and Optimal Control (Prof. Alex Vladimirsky) [Fall 2019]
+MATH 6230: Differential Games and Optimal Control (Prof. Alex Vladimirsky) 
+
+MATH 6410: Enumerative Combinatorics (Prof. Karola Meszaros)[Spring 2020]
 
 ORIE 6520: Applied Probability (Prof. Jamol Pender)
 
-ORIE 6334: Combinatorial Optimization (Prof. David Williamson) [Fall 2019]
+ORIE 6334: Combinatorial Optimization (Prof. David Williamson) 
 
 ORIE 6300: Mathematical Programming I (Prof. David Shmoys)
 

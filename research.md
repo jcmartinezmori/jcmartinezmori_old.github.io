@@ -4,10 +4,10 @@ title: Research
 permalink: /research/
 ---
 
-## The Group Traveling Salesman Problem [Ongoing]
+## Approximation Algorithms for Special Cases of the Group Steiner Tree Problem [Ongoing]
 With Chinmoy Dutta, David Shmoys, and Samitha Samaranayake.
 
-## A multi region SEIR Model with local travel [Ongoing, [Website](http://seir.cee.cornell.edu/)]
+## A Multi-Region SEIR Model with Local Travel [Ongoing, [Website](http://seir.cee.cornell.edu/)]
 With collaborators at Cornell, Vanderbilt, and Rutgers Camden.
 
 ## pdppy: A Python Library for the Pickup and Delivery Problem [[Library](https://pdppy.readthedocs.io/en/latest/index.html)]

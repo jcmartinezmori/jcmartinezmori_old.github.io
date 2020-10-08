@@ -15,7 +15,9 @@ CRP 6860: Planning for Sustainable Transportation (Prof. Nick Klein)
 
 MATH 6230: Differential Games and Optimal Control (Prof. Alex Vladimirsky) 
 
-MATH 6410: Enumerative Combinatorics (Prof. Karola Meszaros) [Spring 2020]
+MATH 6410: Enumerative Combinatorics (Prof. Karola Meszaros) 
+
+MATH 6710: Probability Theory (Prof. Lionel Levine) [Fall 2020] 
 
 ORIE 6520: Applied Probability (Prof. Jamol Pender)
 

@@ -3,10 +3,11 @@ layout: page
 title: Honors
 permalink: /honors/
 ---
+Dwight David Eisenhower Transportation Fellowship (FHWA), 2020
 
-Dwight David Eisenhower Transportation Fellowship (FHWA), Fall 2018 - Summer 2019
+Dwight David Eisenhower Transportation Fellowship (FHWA), 2018
 
-Dwight David Eisenhower Transportation Fellowship (FHWA), Fall 2017 - Summer 2018
+Dwight David Eisenhower Transportation Fellowship (FHWA), 2017
 
 Graduate Fellowship (Systems at Cornell), Fall 2017
 

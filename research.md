@@ -7,8 +7,8 @@ permalink: /research/
 ## Approximation Algorithms for Special Cases of the Group Steiner Tree Problem [Ongoing]
 With Chinmoy Dutta, David Shmoys, and Samitha Samaranayake.
 
-## A Multi-Region SEIR Model with Local Travel [Ongoing, [Website](http://seir.cee.cornell.edu/)]
-With collaborators at Cornell, Vanderbilt, and Rutgers Camden.
+## On the Request-Trip-Vehicle Assignment Problem [In preparation]
+With Samitha Samaranayake.
 
 ## pdppy: A Python Library for the Pickup and Delivery Problem [[Library](https://pdppy.readthedocs.io/en/latest/index.html)]
 With Adrian Hernandez (undergraduate student).

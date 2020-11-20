@@ -7,8 +7,10 @@ permalink: /research/
 ## Approximation Algorithms for Special Cases of the Group Steiner Tree Problem [Ongoing]
 With Chinmoy Dutta, David Shmoys, and Samitha Samaranayake.
 
-## On the Request-Trip-Vehicle Assignment Problem [In preparation]
+## On the Request-Trip-Vehicle Assignment Problem [[Paper](https://arxiv.org/pdf/2011.09952.pdf)]
 With Samitha Samaranayake.
+
+The request-trip-vehicleassignment problem is at the heart of popular decomposition strategies for online vehicle routing. We study an integer linear programming formulation and its linear programming relaxation. Our main result is a simple, linear programming based randomized algorithm that, whenever the instance is feasible, leverages assumptions typically met in practice to return an assignment whose: i) expected cost is at most that of an optimal solution, and ii) expected fraction of unassigned requests is at most 1/e. If trip-vehicle assignment costs can only be α-approximated, we pay an additional factor of α in the expected cost. Unassigned requests are assigned in future rounds with high probability. We can relax the feasibility requirement by includinga penalty term for unassigned requests, in which case our performance guarantee is with respect to a modified objective function. Our techniques generalize to a class of set-partitioning problems
 
 ## pdppy: A Python Library for the Pickup and Delivery Problem [[Library](https://pdppy.readthedocs.io/en/latest/index.html)]
 With Adrian Hernandez (undergraduate student).

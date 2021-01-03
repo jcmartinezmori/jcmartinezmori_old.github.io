@@ -17,7 +17,9 @@ MATH 6230: Differential Games and Optimal Control (Prof. Alex Vladimirsky)
 
 MATH 6410: Enumerative Combinatorics (Prof. Karola Meszaros) 
 
-MATH 6710: Probability Theory (Prof. Lionel Levine) [Fall 2020] 
+MATH 6710: Probability Theory I (Prof. Lionel Levine)
+
+MATH 6720: Probability Theory II (Prof. Lionel Levine) [Spring 2021] 
 
 ORIE 6520: Applied Probability (Prof. Jamol Pender)
 

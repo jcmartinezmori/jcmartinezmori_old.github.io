@@ -21,6 +21,8 @@ MATH 6710: Probability Theory I (Prof. Lionel Levine)
 
 MATH 6720: Probability Theory II (Prof. Lionel Levine) [Spring 2021] 
 
+MATH 7410: Matroid Theory (Prof. Ed Swartz) [Spring 2021] 
+
 ORIE 6520: Applied Probability (Prof. Jamol Pender)
 
 ORIE 6334: Combinatorial Optimization (Prof. David Williamson) 

@@ -3,9 +3,10 @@ title: Juan Carlos Martínez Mori
 cv: Curriculum vitae
 email: jm2638@cornell.edu
 description: > # this means to ignore newlines until "baseurl:"
-  "¿Qué es la vida? Una ilusión, 
+  "¿Qué es la vida? Un frenesí. 
+  ¿Qué es la vida? Una ilusión, 
   una sombra, una ficción,
-  y el mayor bien es pequeño:
+  y el mayor bien es pequeño;
   que toda la vida es sueño,
   y los sueños, sueños son." -- Pedro Calderón de la Barca (1635)
 baseurl: "" # the subpath of your site, e.g. /blog/

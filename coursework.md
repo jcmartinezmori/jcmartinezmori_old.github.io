@@ -19,9 +19,9 @@ MATH 6410: Enumerative Combinatorics (Prof. Karola Meszaros)
 
 MATH 6710: Probability Theory I (Prof. Lionel Levine)
 
-MATH 6720: Probability Theory II (Prof. Lionel Levine) [Spring 2021] 
+MATH 6720: Probability Theory II (Prof. Lionel Levine)
 
-MATH 7410: Matroid Theory (Prof. Ed Swartz) [Spring 2021] 
+MATH 7410: Matroid Theory (Prof. Ed Swartz)
 
 ORIE 6520: Applied Probability (Prof. Jamol Pender)
 

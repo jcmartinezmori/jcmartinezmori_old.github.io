@@ -4,6 +4,11 @@ title: Teaching
 permalink: /teaching/
 ---
 
+## At MSRI
+### MSRI-UP 2021: Parking Functions: Choose Your Own Adventure
+Summer 2021
+
+
 ## At Illinois
 
 ### Engineering Learning Assistant, ENG 100: Engineering Orientation. 

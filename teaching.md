@@ -5,7 +5,7 @@ permalink: /teaching/
 ---
 
 ## At MSRI
-### MSRI-UP 2021: Parking Functions: Choose Your Own Adventure
+### Graduate Teaching Assistant, MSRI-UP 2021: Parking Functions: Choose Your Own Adventure
 Summer 2021
 
 

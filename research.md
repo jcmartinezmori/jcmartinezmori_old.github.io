@@ -4,8 +4,7 @@ title: Research
 permalink: /research/
 ---
 
-## Approximation Algorithms for Special Cases of the Group Steiner Tree Problem [Ongoing]
-With Chinmoy Dutta, David Shmoys, and Samitha Samaranayake.
+
 
 ## On the Request-Trip-Vehicle Assignment Problem [[Paper](https://arxiv.org/pdf/2011.09952.pdf)]
 With Samitha Samaranayake.

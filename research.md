@@ -58,6 +58,16 @@ permalink: /research/
 
 <ol>
 	<li>
+		On Permutation Invariant Parking Sequences,
+		Douglas Chen, Pamela E. Harris, J. Carlos Martínez Mori, Eric J. Pabón-Cancel, and Gabriel Sargent.
+		Working paper, 2022.
+	</li>
+	<li>
+		On the Outcome Map of MVP Parking Functions: Permutations Avoiding 321 and 3412, and Motzkin Paths,
+		Pamela E. Harris, Brian Kamau, J. Carlos Martínez Mori, Casandra D. Monroe, and Roger Tian.
+		Working paper, 2022.
+	</li>
+	<li>
 		<a href="https://arxiv.org/abs/2206.00541">On Parking Functions and the Tower Of Hanoi</a>,
 		Yasmin Aguillon, Dylan Alvarenga, Pamela E. Harris, Surya Kotapati, J. Carlos Martínez Mori, Casandra D. Monroe, Zia Saylor, Camelle Tieu, and Dwight Anderson Williams II.
 		Full manuscript, to appear in <i>American Mathematical Monthly</i>, 2022.

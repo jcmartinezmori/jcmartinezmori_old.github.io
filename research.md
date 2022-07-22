@@ -28,7 +28,7 @@ permalink: /research/
 	<li>
 		On the Value of Dynamism in Transit Networks, 
 		J. Carlos Martínez Mori, M. Grazia Speranza, and Samitha Samaranayake.
-		<a href="https://tristan2022.org/Papers/TRISTAN_2022_paper_5266.pdf">Extended abstract</a>, <i>11th Triennial Symposium on Transportation Analysis (TRISTAN XI)</i>, 2022.
+		<a href="https://tristan2022.org/Papers/TRISTAN_2022_paper_5266.pdf">Extended abstract</a>, <i>Proceedings of the 11th Triennial Symposium on Transportation Analysis (TRISTAN XI)</i>, 2022.
 		Full manuscript, submitted to <i>Transportation Science</i>, 2022.
 	</li>
 	<li>
@@ -36,6 +36,22 @@ permalink: /research/
 		William Barbour, J. Carlos Martínez Mori, Shankara Kuppa, and Daniel Work.
 		<i>Transportation Research Part C: Emerging Technologies</i>, 93, 211-227, 2018.
 	</li>
+	<li>
+		<a href="https://doi.org/10.1080/15472450.2018.1438274">Estimating Traffic Conditions from Smart Work Zone Systems</a>,
+		Yanning Li, J. Carlos Martínez Mori, and Daniel Work.
+		<i>Journal of Intelligent Transportation Systems</i>, 22:6, 490-502, 2018.
+	</li>
+	<li>
+		<a href="https://trid.trb.org/view/1496714">Predicting Delay Occurrence at Freight Rail Sidings</a>,
+		J. Carlos Martínez Mori, William Barbour, Shankara Kuppa, and Daniel Work.
+		<i>Proceedings of the 97th Transportation Research Board Annual Meeting</i>, 2018.
+	</li>
+	<li>
+		<a href="https://apps.ict.illinois.edu/projects/getfile.asp?id=5074">Improving the Effectiveness of Smart Work Zone Technologies</a>,
+		Yanning Li, J. Carlos Martínez Mori, and Daniel Work.
+		<i>Illinois Center for Transportation</i>, Technical Report FHWA-ICT-16-021, 2016.
+	</li>
+		
 </ol>
    
 ### Combinatorics

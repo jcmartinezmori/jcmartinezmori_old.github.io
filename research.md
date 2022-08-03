@@ -32,7 +32,7 @@ permalink: /research/
 	<li>
 		<a href="https://arxiv.org/abs/2207.13041">On the Outcome Map of MVP Parking Functions: Permutations Avoiding 321 and 3412, and Motzkin Paths</a>,
 		Pamela E. Harris, Brian Kamau, J. Carlos Martínez Mori, and Roger Tian.
-		Full manuscript, submitted to Electronic Journal of Combinatorics, 2022.
+		Full manuscript, submitted, 2022.
 	</li>
 	<li>
 		<a href="https://arxiv.org/abs/2206.00541">On Parking Functions and the Tower Of Hanoi</a>,
@@ -48,7 +48,7 @@ permalink: /research/
 		On the Value of Dynamism in Transit Networks, 
 		J. Carlos Martínez Mori, M. Grazia Speranza, and Samitha Samaranayake.
 		<a href="https://tristan2022.org/Papers/TRISTAN_2022_paper_5266.pdf">Extended abstract</a>, <i>Proceedings of the 11th Triennial Symposium on Transportation Analysis (TRISTAN XI)</i>, 2022.
-		Full manuscript, submitted to <i>Transportation Science</i>, 2022.
+		Full manuscript, submitted, 2022.
 	</li>
 	<li>
 		<a href="https://doi.org/10.1016/j.trc.2018.05.019">Prediction of Arrival Times of Freight Traffic on US Railroads using Support Vector Regression</a>, 

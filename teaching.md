@@ -13,6 +13,11 @@ Summer 2022
 Summer 2021
 
 ## At Cornell
+
+### Teaching Assistant, CS 4820: Introduction to Analysis of Algorithms
+Fall 2022
+This is an upper-level undergraduate course on algorithm design.
+
 ### Grader, ORIE 6334: Combinatorial Optimization
 Spring 2022
 

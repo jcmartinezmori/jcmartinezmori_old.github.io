@@ -25,7 +25,7 @@ permalink: /research/
 
 <ol>
 	<li>
-		On Permutation Invariant Parking Sequences,
+		<a href="https://arxiv.org/abs/2211.01063">Permutation Invariant Parking Assortments</a>,
 		Douglas Chen, Pamela E. Harris, J. Carlos Martínez Mori, Eric J. Pabón-Cancel, and Gabriel Sargent.
 		Working paper, 2022.
 	</li>

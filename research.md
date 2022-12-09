@@ -27,7 +27,7 @@ permalink: /research/
 	<li>
 		<a href="https://arxiv.org/abs/2211.01063">Permutation Invariant Parking Assortments</a>,
 		Douglas Chen, Pamela E. Harris, J. Carlos Martínez Mori, Eric J. Pabón-Cancel, and Gabriel Sargent.
-		Working paper, 2022.
+		Full manuscript, submitted, 2022.
 	</li>
 	<li>
 		<a href="https://arxiv.org/abs/2207.13041">On the Outcome Map of MVP Parking Functions: Permutations Avoiding 321 and 3412, and Motzkin Paths</a>,
@@ -47,8 +47,7 @@ permalink: /research/
 	<li>
 		On the Value of Dynamism in Transit Networks, 
 		J. Carlos Martínez Mori, M. Grazia Speranza, and Samitha Samaranayake.
-		<a href="https://tristan2022.org/Papers/TRISTAN_2022_paper_5266.pdf">Extended abstract</a>, <i>Proceedings of the 11th Triennial Symposium on Transportation Analysis (TRISTAN XI)</i>, 2022.
-		Full manuscript, submitted, 2022.
+		To appear in Transportation Science, 2022.
 	</li>
 	<li>
 		<a href="https://doi.org/10.1016/j.trc.2018.05.019">Prediction of Arrival Times of Freight Traffic on US Railroads using Support Vector Regression</a>, 

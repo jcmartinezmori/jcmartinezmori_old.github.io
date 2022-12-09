@@ -47,7 +47,7 @@ permalink: /research/
 	<li>
 		On the Value of Dynamism in Transit Networks, 
 		J. Carlos Martínez Mori, M. Grazia Speranza, and Samitha Samaranayake.
-		To appear in Transportation Science, 2022.
+		Full manuscript, to appear in <i>Transportation Science</i>, 2022.
 	</li>
 	<li>
 		<a href="https://doi.org/10.1016/j.trc.2018.05.019">Prediction of Arrival Times of Freight Traffic on US Railroads using Support Vector Regression</a>, 

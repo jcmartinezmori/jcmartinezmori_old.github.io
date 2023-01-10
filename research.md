@@ -45,7 +45,7 @@ permalink: /research/
 
 <ol>
 	<li>
-		On the Value of Dynamism in Transit Networks, 
+		<a href="https://pubsonline.informs.org/doi/10.1287/trsc.2022.1193">On the Value of Dynamism in Transit Networks, 
 		J. Carlos Martínez Mori, M. Grazia Speranza, and Samitha Samaranayake.
 		Full manuscript, to appear in <i>Transportation Science</i>, 2022.
 	</li>

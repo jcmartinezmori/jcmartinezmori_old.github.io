@@ -32,7 +32,7 @@ permalink: /research/
 	<li>
 		<a href="https://arxiv.org/abs/2207.13041">On the Outcome Map of MVP Parking Functions: Permutations Avoiding 321 and 3412, and Motzkin Paths</a>.
 		Pamela E. Harris, Brian Kamau, J. Carlos Martínez Mori, and Roger Tian.
-		Full manuscript, submitted, 2022.
+		<i>Enumerative Combinatorics and Applications</i>, 3:2, 2023.
 	</li>
 	<li>
 		<a href="https://arxiv.org/abs/2206.00541">On Parking Functions and the Tower Of Hanoi</a>.

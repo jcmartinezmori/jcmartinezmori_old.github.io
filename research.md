@@ -48,7 +48,7 @@ permalink: /research/
 		<a href="https://arxiv.org/abs/2212.12007">Designing Equitable Transit Networks</a>. Sophie Pavia, J. Carlos Martínez Mori, Aryaman Sharma, Philip Pugliese, Abhishek Dubey, Samitha Samaranayake, Ayan Mukhopadhyay. Extended abstract, INFORMS Transportation and Logistics Society Conference, 2023.
 	</li>
 	<li>
-		<a href="https://doi.org/10.1287/trsc.2022.1193>On the Value of Dynamism in Transit Networks</a>.
+		<a href="https://doi.org/10.1287/trsc.2022.1193">On the Value of Dynamism in Transit Networks</a>.
 		J. Carlos Martínez Mori, M. Grazia Speranza, and Samitha Samaranayake.
 		Full manuscript, to appear in <i>Transportation Science</i>, 2022.
 	</li>

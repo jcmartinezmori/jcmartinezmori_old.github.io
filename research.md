@@ -25,6 +25,11 @@ permalink: /research/
 
 <ol>
 	<li>
+		<a href="https://arxiv.org/abs/2306.13065">Lucky Cars and the Quicksort algorithm</a>.
+		Pamela E. Harris, Jan Kretschmann, and J. Carlos Martínez Mori.
+		Full manuscript, 2023.
+  	</li>
+	<li>
 		<a href="https://arxiv.org/abs/2211.01063">Permutation Invariant Parking Assortments</a>.
 		Douglas Chen, Pamela E. Harris, J. Carlos Martínez Mori, Eric J. Pabón-Cancel, and Gabriel Sargent.
 		Full manuscript, submitted, 2022.

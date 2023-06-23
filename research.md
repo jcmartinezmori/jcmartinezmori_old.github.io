@@ -25,7 +25,7 @@ permalink: /research/
 
 <ol>
 	<li>
-		<a href="https://arxiv.org/abs/2306.13065">Lucky Cars and the Quicksort algorithm</a>.
+		<a href="https://arxiv.org/abs/2306.13065">Lucky Cars and the Quicksort Algorithm</a>.
 		Pamela E. Harris, Jan Kretschmann, and J. Carlos Martínez Mori.
 		Full manuscript, 2023.
   	</li>

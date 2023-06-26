@@ -25,6 +25,11 @@ permalink: /research/
 
 <ol>
 	<li>
+		<a href="">Boolean Intervals in the Weak Order of S_n</a>.
+		Jennifer Elder, Pamela E. Harris, Jan Kretschmann, and J. Carlos Martínez Mori.
+		Full manuscript, 2023.
+  	</li>
+	<li>
 		<a href="https://arxiv.org/abs/2306.13065">Lucky Cars and the Quicksort Algorithm</a>.
 		Pamela E. Harris, Jan Kretschmann, and J. Carlos Martínez Mori.
 		Full manuscript, 2023.

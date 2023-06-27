@@ -45,7 +45,7 @@ permalink: /research/
 		<i>Enumerative Combinatorics and Applications</i>, 3:2, Article #S2R11, 2023.
 	</li>
 	<li>
-		<a href="https://arxiv.org/abs/2206.00541">On Parking Functions and the Tower Of Hanoi</a>.
+		<a href="https://doi.org/10.1080/00029890.2023.2206311">On Parking Functions and the Tower Of Hanoi</a>.
 		Yasmin Aguillon, Dylan Alvarenga, Pamela E. Harris, Surya Kotapati, J. Carlos Martínez Mori, Casandra D. Monroe, Zia Saylor, Camelle Tieu, and Dwight Anderson Williams II.
 		Full manuscript, to appear in <i>American Mathematical Monthly</i>, 2022.
 	</li>

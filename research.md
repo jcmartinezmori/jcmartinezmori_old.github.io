@@ -90,7 +90,7 @@ permalink: /research/
 
 <ol>
 	<li>
-		<a href="https://www.nature.com/articles/s41598-019-48463-z">Bounded Asymmetry in Road Networks</a>.
+		<a href="https://doi.org/10.1038/s41598-019-48463-z">Bounded Asymmetry in Road Networks</a>.
 		J. Carlos Martínez Mori and Samitha Samaranayake. 
 		<i>Scientific Reports</i>, 9, 11951, 2019.
 	</li>

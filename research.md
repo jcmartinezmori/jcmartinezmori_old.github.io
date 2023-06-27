@@ -25,7 +25,7 @@ permalink: /research/
 
 <ol>
 	<li>
-		<a href="">Boolean Intervals in the Weak Order of S_n</a>.
+		<a href="https://arxiv.org/abs/2306.14734">Boolean Intervals in the Weak Order of S_n</a>.
 		Jennifer Elder, Pamela E. Harris, Jan Kretschmann, and J. Carlos Martínez Mori.
 		Full manuscript, 2023.
   	</li>

@@ -47,7 +47,7 @@ permalink: /research/
 	<li>
 		<a href="https://doi.org/10.1080/00029890.2023.2206311">On Parking Functions and the Tower Of Hanoi</a>.
 		Yasmin Aguillon, Dylan Alvarenga, Pamela E. Harris, Surya Kotapati, J. Carlos Martínez Mori, Casandra D. Monroe, Zia Saylor, Camelle Tieu, and Dwight Anderson Williams II.
-		<i>The American Mathematical Monthly</i>, 130:7, 2023.
+		<i>The American Mathematical Monthly</i>, 130:7, 618-624, 2023.
 	</li>
 </ol>
 

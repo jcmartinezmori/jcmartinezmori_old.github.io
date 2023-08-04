@@ -37,7 +37,7 @@ permalink: /research/
 	<li>
 		<a href="https://arxiv.org/abs/2211.01063">Permutation Invariant Parking Assortments</a>.
 		Douglas Chen, Pamela E. Harris, J. Carlos Martínez Mori, Eric J. Pabón-Cancel, and Gabriel Sargent.
-		Full manuscript, to appear in <i>Enumerative Combinatorics and Applications</i>, 2023.
+		<i>Enumerative Combinatorics and Applications</i>, 4:1, Article #S2R4, 2024.
 	</li>
 	<li>
 		<a href="https://doi.org/10.54550/ECA2023V3S2R11">On the Outcome Map of MVP Parking Functions: Permutations Avoiding 321 and 3412, and Motzkin Paths</a>.

@@ -10,6 +10,10 @@ permalink: /research/
 
 <ol>
 	<li>
+		Sparse Graphical Designs via Linear Programming. Hessa Al-Thani, Catherine Babecki, and J. Carlos Martínez Mori.
+		Full manuscript, 2023.
+	</li>
+	<li>
 		<a href="https://doi.org/10.1016/j.orl.2022.06.008">Permutatorial Optimization via the Permutahedron</a> 
 		J. Carlos Martínez Mori and Samitha Samaranayake.
 		<i>Operations Research Letters</i>, 50:5, 441-445, 2022.

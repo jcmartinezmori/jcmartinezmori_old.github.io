@@ -4,11 +4,11 @@ title: Research
 permalink: /research/
 ---
 
-#### Keywords
+### Keywords
 
 [OP]: Optimization methods, [CO]: Combinatorics, [TR]: Transportation, and [NS]: Network Science.
 
-### Preprints
+## Preprints
 
 <ol>
 	<li>
@@ -32,7 +32,7 @@ permalink: /research/
 </ol>
 
 
-### Publications
+## Publications
 
 <ol>
 	<li>

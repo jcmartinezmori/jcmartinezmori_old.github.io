@@ -6,7 +6,7 @@ permalink: /research/
 
 #### Keywords
 
-[OP] Optimization methods, [CO] Combinatorics, [TR] Transportation, and [NS] Network Science.
+Optimization [OP], combinatorics [CO], transportation [TR], network science [NS].
 
 ### Preprints
 

@@ -36,6 +36,10 @@ Optimization [OP], combinatorics [CO], transportation [TR], network science [NS]
 
 <ol>
 	<li>
+		<a href="https://arxiv.org/abs/2306.13065">Lucky Cars and the Quicksort Algorithm</a>. Pamela E. Harris, Jan Kretschmann, and J. Carlos Martínez Mori.
+To appear in <i>The American Mathematical Monthly</i>, 2024.
+	</li>
+	<li>
 		<a href="https://doi.org/10.54550/ECA2024V4S1R4">Permutation Invariant Parking Assortments</a>.
 		Douglas Chen, Pamela E. Harris, J. Carlos Martínez Mori, Eric J. Pabón-Cancel, and Gabriel Sargent.
 		<i>Enumerative Combinatorics and Applications</i>, 4:1, Article #S2R4, 2024.

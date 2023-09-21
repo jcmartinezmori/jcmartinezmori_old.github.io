@@ -6,11 +6,17 @@ permalink: /research/
 
 #### Keywords
 
-Optimization [OP], combinatorics [CO], transportation [TR], network science [NS].
+Combinatorics [CO], optimization [OP], transportation [TR], game theory [GT], network science [NS].
 
 ### Preprints
 
 <ol>
+	<li>
+		<a href="">Cost-sharing in Parking Games</a>.
+		Jennifer Elder, Pamela E. Harris, Jan Kretschmann, and J. Carlos Martínez Mori.
+		Full manuscript, 2023.
+		[CO, GT]
+  	</li>
 	<li>
 		<a href="https://arxiv.org/abs/2306.14734">Boolean Intervals in the Weak Order of S_n</a>.
 		Jennifer Elder, Pamela E. Harris, Jan Kretschmann, and J. Carlos Martínez Mori.
@@ -36,8 +42,10 @@ Optimization [OP], combinatorics [CO], transportation [TR], network science [NS]
 
 <ol>
 	<li>
-		<a href="https://arxiv.org/abs/2306.13065">Lucky Cars and the Quicksort Algorithm</a>. Pamela E. Harris, Jan Kretschmann, and J. Carlos Martínez Mori.
-To appear in <i>The American Mathematical Monthly</i>, 2024.
+		<a href="https://arxiv.org/abs/2306.13065">Lucky Cars and the Quicksort Algorithm</a>. 
+		Pamela E. Harris, Jan Kretschmann, and J. Carlos Martínez Mori.
+		To appear in <i>The American Mathematical Monthly</i>, 2024.
+		[CO]
 	</li>
 	<li>
 		<a href="https://doi.org/10.54550/ECA2024V4S1R4">Permutation Invariant Parking Assortments</a>.

@@ -12,7 +12,7 @@ Combinatorics [CO], optimization [OP], transportation [TR], game theory [GT], ne
 
 <ol>
 	<li>
-		<a href="">Cost-sharing in Parking Games</a>.
+		<a href="https://arxiv.org/abs/2309.12265">Cost-sharing in Parking Games</a>.
 		Jennifer Elder, Pamela E. Harris, Jan Kretschmann, and J. Carlos Martínez Mori.
 		Full manuscript, 2023.
 		[CO, GT]

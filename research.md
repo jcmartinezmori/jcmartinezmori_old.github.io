@@ -12,16 +12,16 @@ Combinatorics [CO], optimization [OP], transportation [TR], game theory [GT], ne
 
 <ol>
 	<li>
+		<a href="https://arxiv.org/abs/2311.14055">Interval and ℓ-interval Rational Parking Functions </a>.
+		Tomás Aguilar-Fraga, Jennifer Elder, Rebecca E. Garcia, Kimberly P. Hadaway, Pamela E. Harris, Kimberly J. Harry, Imhotep B. Hogan, Jakeyl Johnson, Jan Kretschmann, Kobe Lawson-Chavanu, J. Carlos Martínez Mori, Casandra D. Monroe, Daniel Quiñonez, Dirk Tolson III, Dwight Anderson Williams II.
+		Full manuscript, 2023.
+		[CO]
+  	</li>
+	<li>
 		<a href="https://arxiv.org/abs/2309.12265">Cost-sharing in Parking Games</a>.
 		Jennifer Elder, Pamela E. Harris, Jan Kretschmann, and J. Carlos Martínez Mori.
 		Full manuscript, 2023.
 		[CO, GT]
-  	</li>
-	<li>
-		<a href="https://arxiv.org/abs/2306.14734">Boolean Intervals in the Weak Order of S_n</a>.
-		Jennifer Elder, Pamela E. Harris, Jan Kretschmann, and J. Carlos Martínez Mori.
-		Full manuscript, 2023.
-		[CO]
   	</li>
 	<li>
 		<a href="https://arxiv.org/abs/2212.12007">Designing Equitable Transit Networks</a>. 
@@ -41,6 +41,12 @@ Combinatorics [CO], optimization [OP], transportation [TR], game theory [GT], ne
 ### Publications
 
 <ol>
+	<li>
+		<a href="https://arxiv.org/abs/2309.12265">Boolean Intervals in the Weak Order of $\mathfrak{S}_n$</a>.
+		Jennifer Elder, Pamela E. Harris, Jan Kretschmann, and J. Carlos Martínez Mori.
+		To appear in <i>Journal of Combinatorics</i>, 2024.
+		[CO]
+  	</li>
 	<li>
 		<a href="https://arxiv.org/abs/2306.13065">Lucky Cars and the Quicksort Algorithm</a>. 
 		Pamela E. Harris, Jan Kretschmann, and J. Carlos Martínez Mori.

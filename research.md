@@ -42,7 +42,7 @@ Combinatorics [CO], optimization [OP], transportation [TR], game theory [GT], ne
 
 <ol>
 	<li>
-		<a href="https://arxiv.org/abs/2309.12265">Boolean Intervals in the Weak Order of $\mathfrak{S}_n$</a>.
+		<a href="https://arxiv.org/abs/2306.14734">Boolean Intervals in the Weak Order of $\mathfrak{S}_n$</a>.
 		Jennifer Elder, Pamela E. Harris, Jan Kretschmann, and J. Carlos Martínez Mori.
 		To appear in <i>Journal of Combinatorics</i>, 2024.
 		[CO]

@@ -12,7 +12,13 @@ Combinatorics [CO], optimization [OP], transportation [TR], game theory [GT], ne
 
 <ol>
 	<li>
-		<a href="https://arxiv.org/abs/2311.14055">Interval and ℓ-interval Rational Parking Functions </a>.
+		<a href="https://arxiv.org/abs/2401.03307">Modeling Processes of Neighborhood Change</a>
+		J. Carlos Martínez Mori and Zhanzhan Zhao.
+		Full manuscript, 2024.
+		[TR, GT]
+	</li>
+	<li>
+		<a href="https://arxiv.org/abs/2311.14055">Interval and ℓ-interval Rational Parking Functions</a>.
 		Tomás Aguilar-Fraga, Jennifer Elder, Rebecca E. Garcia, Kimberly P. Hadaway, Pamela E. Harris, Kimberly J. Harry, Imhotep B. Hogan, Jakeyl Johnson, Jan Kretschmann, Kobe Lawson-Chavanu, J. Carlos Martínez Mori, Casandra D. Monroe, Daniel Quiñonez, Dirk Tolson III, Dwight Anderson Williams II.
 		Full manuscript, 2023.
 		[CO]

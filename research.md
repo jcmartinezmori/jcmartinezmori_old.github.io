@@ -12,6 +12,12 @@ Combinatorics [CO], optimization [OP], transportation [TR], game theory [GT], ne
 
 <ol>
 	<li>
+		<a href="https://arxiv.org/abs/2403.07989">Boolean intervals in the weak Bruhat order of a finite Coxeter group</a>
+		Ben Adenbaum, Jennifer Elder, Pamela E. Harris, and J. Carlos Martínez Mori.
+		Full manuscript, 2024.
+		[CO]
+	</li>
+	<li>
 		<a href="https://arxiv.org/abs/2401.03307">Modeling Processes of Neighborhood Change</a>
 		J. Carlos Martínez Mori and Zhanzhan Zhao.
 		Full manuscript, 2024.

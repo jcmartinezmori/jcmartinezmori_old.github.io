@@ -4,7 +4,7 @@ title: Research
 permalink: /research/
 ---
 
-Take a look at my expository article on <a href="https://arxiv.org/abs/2404.15372">parking functions</a>!
+Are you wondering what are these <a href="https://arxiv.org/abs/2404.15372">parking functions</a>?
 
 
 #### Keywords

@@ -4,7 +4,7 @@ title: Research
 permalink: /research/
 ---
 
-Are you wondering what is a <a href="https://arxiv.org/abs/2404.15372">parking function</a>?
+Are you wondering <a href="https://arxiv.org/abs/2404.15372">what is a parking function</a>?
 
 
 #### Keywords

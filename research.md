@@ -4,6 +4,9 @@ title: Research
 permalink: /research/
 ---
 
+Take a look at my expository article on <a href="https://arxiv.org/abs/2404.15372">parking functions</a>!
+
+
 #### Keywords
 
 Combinatorics [CO], optimization [OP], transportation [TR], game theory [GT], network science [NS].

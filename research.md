@@ -63,9 +63,9 @@ Combinatorics [CO], optimization [OP], transportation [TR], game theory [GT], ne
 		[CO]
   	</li>
 	<li>
-		<a href="https://arxiv.org/abs/2306.13065">Lucky Cars and the Quicksort Algorithm</a>. 
+		<a href="https://doi.org/10.1080/00029890.2024.2309103">Lucky Cars and the Quicksort Algorithm</a>. 
 		Pamela E. Harris, Jan Kretschmann, and J. Carlos Martínez Mori.
-		To appear in <i>The American Mathematical Monthly</i>, 2024.
+		<i>The American Mathematical Monthly</i>, 131:5, 417–423, 2024.
 		[CO]
 	</li>
 	<li>
